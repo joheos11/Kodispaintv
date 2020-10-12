@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menus_info>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]</title>
+<genre>ALL</genre>
+<description>Contenido variado en español</description>
+<thumbnail>https://s18.postimg.cc/4vv9gntnt/kodispain_icon.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<credits>https://t.me/kodispain (joheos11)</credits>
+</menus_info>
+<menu>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]         [COLOR yellow]por[/COLOR] [COLOR red]@[/COLOR][COLOR yellow]joheos11[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/eku48dc2h/actualizado.jpg</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/NEW_MAIN_menu$$LSProEncKey= $$</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</title>
+<thumbnail>https://s18.postimg.cc/9akk37keh/canalestv-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<link>nolink</link>
+<externallink>http://bit.ly/CANALES_DE_ESPANIA</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]ADICTOS A LA TELE[/COLOR]</title>
+<link>$doregex[seccion]</link>
+<regex>
+<name>seccion</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR gold]$doregex[formateaSeccion][/COLOR][/B]</title>
+  <thumbnail>https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[agenda]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<li id=\"menu-item-\d+\" class=\"menu-item menu-item-type-post_type menu-item-object-post menu-item-\d+\"><a href=\"(.*)\">\*?(.*)</a></li>'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado)==0:
+			return [('nolink','[COLOR red]ERROR:[/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]')]
+			
+		fondos = []
+		fondos.append('https://i.ytimg.com/vi/PRQfB_AFZZU/maxresdefault.jpg')
+		fondos.append('https://elvortex.com/wp-content/uploads/2013/05/fat_2258816b.jpg')
+		fondos.append('https://www.tophoy.com/wp-content/uploads/2019/06/collage-deportistas-deporte.jpg.webp')
+		fondos.append('https://www.juegosyeducacion.com/wp-content/uploads/2016/02/PUZZLE-INFANTIL-EDUCA-1000-PIEZAS-MARAVILLOSO-MUNDO-DISNEY.jpg')
+		fondos.append('https://i.blogs.es/d5b3b2/netflix-documentales/1366_2000.jpg')
+		fondos.append('https://roams.mx/images/content/canales-adultos-sky.jpg')
+ 
+		resultado_numerado = []
+		resultado_numerado.append(('nolink', '[COLOR red]Tu operadora puede bloquear estos contenidos[/COLOR], [COLOR white]Contacte con @kodispain en Telegram[/COLOR]', ''))
+		contador = 0
+		for registro in resultado:			
+			resultado_numerado.append((registro[0], registro[1], fondos[contador]))
+			contador = contador + 1
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https://adictosalatele.com</page>
+</regex>
+<regex>
+<name>formateaSeccion</name>
+<expres>$pyFunction:('[seccion.param2]').upper().replace('ñ','Ñ').replace('+ 18 mejor no lo ponemos de color esto...','[COLOR red][+18][/COLOR]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>agenda</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR white]$doregex[formateaAgenda][/COLOR][/B]</title>
+  <thumbnail>https://adictosalatele.com/[agenda.param3]</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[opcion]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<a href=\"(.*)\" title=\"(.*)\"><img src=\"(.*)\"'
+		resultado = re.findall(expresion, page_data)#[:5]
+		if len(resultado)==0:
+			return [('nolink','[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]', '')]
+		resultado_numerado = []
+		for registro in resultado:			
+			posicionComilla = registro[2].find("\"")
+			if posicionComilla < 0: 
+				posicionComilla = len(registro[2])
+			resultado_numerado.append((registro[0], registro[1], registro[2][0:posicionComilla]))
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>[seccion.param1]</page>
+</regex>
+<regex>
+<name>formateaAgenda</name>
+<expres>$pyFunction:('[agenda.param2]').upper().replace(' EN DIRECTO ONLINE GRATIS','').replace(' EN VIVO ONLINE GRATIS','').replace(' EN VIVO','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>opcion</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR white]$doregex[formateaAgenda][/COLOR] [COLOR gold]OPC. [opcion.param3][/COLOR] $doregex[validarUrl][/B]</title>
+  <thumbnail>https://adictosalatele.com/[agenda.param3]</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[getUrl]|User-Agent=iPad</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<a href=\"(.*)\".*img style|href=\"(.*)\" onClick'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado)==0:
+			resultado.append(('$doregex[getEnlaceOpciones]',''))
+		resultado_numerado = []
+		contador = 0
+		for registro in resultado:
+			contador = contador + 1
+			resultado_numerado.append((registro[0], registro[1], str(contador)))
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:$doregex[getEnlaceOpciones]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceOpciones</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'iframe.+?src="(.+?)"'
+		resultado_tmp = re.findall(expresion, page_data)
+		if len(resultado_tmp)>0:
+			resultado = resultado_tmp[0]
+		else:
+			resultado = ''		
+		if len(resultado)==0:
+			resultado = '$doregex[getEnlaceOpciones0]'
+		return resultado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:$doregex[getEnlaceOpciones0]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceOpciones0</name>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'iframe.+?src="(.+?)"'
+		resultado_tmp = re.findall(expresion, page_data)
+		if len(resultado_tmp)>0:
+			resultado = resultado_tmp[0]
+		else:
+			resultado = ''
+		if len(resultado)==0 or '[seccion.param2]'.upper().find("DEP") == -1:
+			resultado = '[agenda.param1]'		
+		return resultado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:[agenda.param1]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceServidor</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'src=\"(.*?)\"><\/iframe'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado) == 0: 
+			return '$doregex[getOpcion]'
+		valor = resultado[0]
+		return valor[0:resultado[0].find("\"")]		
+    except Exception, e:		
+		return 'ERROR en getEnlaceServidor'
+]]></expres>
+<page>$doregex[getOpcion]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getOpcion</name>
+<expres>$pyFunction:('https:[opcion.param1][opcion.param2]').replace("https:https:","https:")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getEnlaceServidorName</name>
+<expres>$pyFunction: '$doregex[getEnlaceServidor]'[0:'$doregex[getEnlaceServidor]'.find(".")].replace("https","").replace("http","").replace(":","").replace("//","") </expres>
+<page></page>
+</regex>
+<regex>
+<name>validarUrl</name>
+<expres>$pyFunction: '[COLOR red]#KO#[/COLOR]' if '$doregex[getUrl]'=='' else '' </expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction: '$doregex[getUrl_Wstream]' if '$doregex[getEnlaceServidorName]'=='wstream' else '$doregex[getUrl_ZonaDeportiva]' if '$doregex[getEnlaceServidorName]'=='zonadeportiva' else '$doregex[getUrl_Adictos]' </expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl_Wstream</name>
+<expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>$doregex[getUnpacked_Wstream]</page>
+</regex>
+<regex>
+<name>getUnpacked_Wstream</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+<page>$doregex[getEnlaceServidor]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getUrl_ZonaDeportiva</name>
+<expres>source:\s*"([^"]+)</expres>
+<page>$doregex[getUnpacked_ZonaDeportiva]</page>
+</regex>
+<regex>
+<name>getUnpacked_ZonaDeportiva</name>
+<expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
+<page>$doregex[iframe_ZonaDeportiva]</page>
+<referer>https://zonadeportiva.info/</referer>
+</regex>
+<regex>
+<name>iframe_ZonaDeportiva</name>
+<expres>iframe src='([^']+)</expres>
+<page>https:$doregex[getEnlaceServidor]</page>
+<referer>https://zonadeportiva.info/</referer>
+</regex>
+<regex>
+<name>getUrl_Adictos</name>
+<expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>$doregex[getEnlaceServidor]</page>
+</regex>
+<thumbnail>https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png</thumbnail>
+<fanart></fanart>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]CANALES MUSICALES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/pyc25q2bd/tvmusical-logo.jpg</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/CANALES_MUSICALES_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/rsownhk6x/tvdeportes-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart> 
+<externallink>http://bit.ly/DEPORTES_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/LISTAS_IPTV_NEW</externallink>
+</menu> 
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]RADIO[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s15.postimg.cc/p66v8dv23/iconradio.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/RADIO_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/gmmuat3sp/YOUTUBE.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/YT_MENU_PRINCIPAL_MOD</externallink>
+</menu>
+<!-- <menu>
+<title>[COLOR white]* [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s14.postimg.cc/wx5mdmsup/logonavidad.jpg</thumbnail>
+<fanart>https://s14.postimg.cc/vi41p49tt/fanartnavidad.jpg</fanart>
+<externallink>http://bit.ly/SPECIAL_NAVIDAD</externallink>
+</menu> -->
+</menus>
