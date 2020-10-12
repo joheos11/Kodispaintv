@@ -1,1 +1,289 @@
-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
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menus_info>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]</title>
+<genre>ALL</genre>
+<description>Contenido variado en español</description>
+<thumbnail>https://s18.postimg.cc/4vv9gntnt/kodispain_icon.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<credits>https://t.me/kodispain (joheos11)</credits>
+</menus_info>
+<menu>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]         [COLOR yellow]por[/COLOR] [COLOR red]@[/COLOR][COLOR yellow]joheos11[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/eku48dc2h/actualizado.jpg</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/NEW_MAIN_menu$$LSProEncKey= $$</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</title>
+<thumbnail>https://s18.postimg.cc/9akk37keh/canalestv-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<link>nolink</link>
+<externallink>http://bit.ly/CANALES_DE_ESPANIA</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]ADICTOS A LA TELE[/COLOR]</title>
+<link>$doregex[seccion]</link>
+<regex>
+<name>seccion</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR gold]$doregex[formateaSeccion][/COLOR][/B]</title>
+  <thumbnail>https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[agenda]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<li id=\"menu-item-\d+\" class=\"menu-item menu-item-type-post_type menu-item-object-post menu-item-\d+\"><a href=\"(.*)\">\*?(.*)</a></li>'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado)==0:
+			return [('nolink','[COLOR red]ERROR:[/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]')]
+			
+		fondos = []
+		fondos.append('https://i.ytimg.com/vi/PRQfB_AFZZU/maxresdefault.jpg')
+		fondos.append('https://elvortex.com/wp-content/uploads/2013/05/fat_2258816b.jpg')
+		fondos.append('https://www.tophoy.com/wp-content/uploads/2019/06/collage-deportistas-deporte.jpg.webp')
+		fondos.append('https://www.juegosyeducacion.com/wp-content/uploads/2016/02/PUZZLE-INFANTIL-EDUCA-1000-PIEZAS-MARAVILLOSO-MUNDO-DISNEY.jpg')
+		fondos.append('https://i.blogs.es/d5b3b2/netflix-documentales/1366_2000.jpg')
+		fondos.append('https://roams.mx/images/content/canales-adultos-sky.jpg')
+ 
+		resultado_numerado = []
+		resultado_numerado.append(('nolink', '[COLOR red]Tu operadora puede bloquear estos contenidos[/COLOR], [COLOR white]Contacte con @kodispain en Telegram[/COLOR]', ''))
+		contador = 0
+		for registro in resultado:			
+			resultado_numerado.append((registro[0], registro[1], fondos[contador]))
+			contador = contador + 1
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https://adictosalatele.com</page>
+</regex>
+<regex>
+<name>formateaSeccion</name>
+<expres>$pyFunction:('[seccion.param2]').upper().replace('ñ','Ñ').replace('+ 18 mejor no lo ponemos de color esto...','[COLOR red][+18][/COLOR]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>agenda</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR white]$doregex[formateaAgenda][/COLOR][/B]</title>
+  <thumbnail>https://adictosalatele.com/[agenda.param3]</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[opcion]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<a href=\"(.*)\" title=\"(.*)\"><img src=\"(.*)\"'
+		resultado = re.findall(expresion, page_data)#[:5]
+		if len(resultado)==0:
+			return [('nolink','[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]', '')]
+		resultado_numerado = []
+		for registro in resultado:			
+			posicionComilla = registro[2].find("\"")
+			if posicionComilla < 0: 
+				posicionComilla = len(registro[2])
+			resultado_numerado.append((registro[0], registro[1], registro[2][0:posicionComilla]))
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>[seccion.param1]</page>
+</regex>
+<regex>
+<name>formateaAgenda</name>
+<expres>$pyFunction:('[agenda.param2]').upper().replace(' EN DIRECTO ONLINE GRATIS','').replace(' EN VIVO ONLINE GRATIS','').replace(' EN VIVO','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>opcion</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR red]•[/COLOR] [COLOR white]$doregex[formateaAgenda][/COLOR] [COLOR gold]OPC. [opcion.param3][/COLOR] $doregex[validarUrl][/B]</title>
+  <thumbnail>https://adictosalatele.com/[agenda.param3]</thumbnail>
+  <fanart>[seccion.param3]</fanart>
+  <link>$doregex[getUrl]|User-Agent=iPad</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = '<a href=\"(.*)\".*img style|href=\"(.*)\" onClick'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado)==0:
+			resultado.append(('$doregex[getEnlaceOpciones]',''))
+		resultado_numerado = []
+		contador = 0
+		for registro in resultado:
+			contador = contador + 1
+			resultado_numerado.append((registro[0], registro[1], str(contador)))
+		return resultado_numerado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:$doregex[getEnlaceOpciones]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceOpciones</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'iframe.+?src="(.+?)"'
+		resultado_tmp = re.findall(expresion, page_data)
+		if len(resultado_tmp)>0:
+			resultado = resultado_tmp[0]
+		else:
+			resultado = ''		
+		if len(resultado)==0:
+			resultado = '$doregex[getEnlaceOpciones0]'
+		return resultado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:$doregex[getEnlaceOpciones0]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceOpciones0</name>
+<expres><![CDATA[#$pyFunction
+import xbmc, re, os
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'iframe.+?src="(.+?)"'
+		resultado_tmp = re.findall(expresion, page_data)
+		if len(resultado_tmp)>0:
+			resultado = resultado_tmp[0]
+		else:
+			resultado = ''
+		if len(resultado)==0 or '[seccion.param2]'.upper().find("DEP") == -1:
+			resultado = '[agenda.param1]'		
+		return resultado
+    except Exception, e:
+		return '[COLOR red]ERROR: [/COLOR] [COLOR white]Contacte con @kodispain en Telegram[/COLOR]'
+]]></expres>
+<page>https:[agenda.param1]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getEnlaceServidor</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+    try:
+		expresion = 'src=\"(.*?)\"><\/iframe'
+		resultado = re.findall(expresion, page_data)
+		if len(resultado) == 0: 
+			return '$doregex[getOpcion]'
+		valor = resultado[0]
+		return valor[0:resultado[0].find("\"")]		
+    except Exception, e:		
+		return 'ERROR en getEnlaceServidor'
+]]></expres>
+<page>$doregex[getOpcion]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getOpcion</name>
+<expres>$pyFunction:('https:[opcion.param1][opcion.param2]').replace("https:https:","https:")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getEnlaceServidorName</name>
+<expres>$pyFunction: '$doregex[getEnlaceServidor]'[0:'$doregex[getEnlaceServidor]'.find(".")].replace("https","").replace("http","").replace(":","").replace("//","") </expres>
+<page></page>
+</regex>
+<regex>
+<name>validarUrl</name>
+<expres>$pyFunction: '[COLOR red]#KO#[/COLOR]' if '$doregex[getUrl]'=='' else '' </expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction: '$doregex[getUrl_Wstream]' if '$doregex[getEnlaceServidorName]'=='wstream' else '$doregex[getUrl_ZonaDeportiva]' if '$doregex[getEnlaceServidorName]'=='zonadeportiva' else '$doregex[getUrl_Adictos]' </expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl_Wstream</name>
+<expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>$doregex[getUnpacked_Wstream]</page>
+</regex>
+<regex>
+<name>getUnpacked_Wstream</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+<page>$doregex[getEnlaceServidor]</page>
+<referer>[seccion.param1]</referer>
+</regex>
+<regex>
+<name>getUrl_ZonaDeportiva</name>
+<expres>source:\s*"([^"]+)</expres>
+<page>$doregex[getUnpacked_ZonaDeportiva]</page>
+</regex>
+<regex>
+<name>getUnpacked_ZonaDeportiva</name>
+<expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
+<page>$doregex[iframe_ZonaDeportiva]</page>
+<referer>https://zonadeportiva.info/</referer>
+</regex>
+<regex>
+<name>iframe_ZonaDeportiva</name>
+<expres>iframe src='([^']+)</expres>
+<page>https:$doregex[getEnlaceServidor]</page>
+<referer>https://zonadeportiva.info/</referer>
+</regex>
+<regex>
+<name>getUrl_Adictos</name>
+<expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>$doregex[getEnlaceServidor]</page>
+</regex>
+<thumbnail>https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png</thumbnail>
+<fanart></fanart>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]CANALES MUSICALES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/pyc25q2bd/tvmusical-logo.jpg</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/CANALES_MUSICALES_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/rsownhk6x/tvdeportes-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart> 
+<externallink>http://bit.ly/DEPORTES_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/LISTAS_IPTV_NEW</externallink>
+</menu> 
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]RADIO[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s15.postimg.cc/p66v8dv23/iconradio.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/RADIO_MOD</externallink>
+</menu>
+<menu>
+<title>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s18.postimg.cc/gmmuat3sp/YOUTUBE.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<externallink>http://bit.ly/YT_MENU_PRINCIPAL_MOD</externallink>
+</menu>
+<!-- <menu>
+<title>[COLOR white]* [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://s14.postimg.cc/wx5mdmsup/logonavidad.jpg</thumbnail>
+<fanart>https://s14.postimg.cc/vi41p49tt/fanartnavidad.jpg</fanart>
+<externallink>http://bit.ly/SPECIAL_NAVIDAD</externallink>
+</menu> -->
+</menus>
