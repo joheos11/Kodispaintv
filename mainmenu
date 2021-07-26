@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <menus>
+  
 <menus_info>
 <title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]</title>
 <genre>ALL</genre>
@@ -8,6 +10,7 @@
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <credits>https://t.me/kodispain (joheos11)</credits>
 </menus_info>
+
 <menu>
 <title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]         [COLOR yellow]por[/COLOR] [COLOR red]@[/COLOR][COLOR yellow]joheos11[/COLOR]</title>
 <link>nolink</link>
@@ -15,6 +18,7 @@
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/NEW_MAIN_menu$$LSProEncKey= $$</externallink>
 </menu>
+
 <menu>
 <title>[COLOR red]• [/COLOR][COLOR white]PHOTOCALL TV (EN CONSTRUCCION)[/COLOR]</title>
 <thumbnail>https://i.postimg.cc/Dwg1DNYK/photocall.png</thumbnail>
@@ -22,6 +26,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/photocalltv</externallink>
 </menu>
+
 <menu>  
 <title>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</title>
 <link>nolink</link>
@@ -29,13 +34,15 @@
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart> 
 <externallink>http://bit.ly/DEPORTES_MOD</externallink>
 </menu>
+
 <menu>
 <title>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://s18.postimg.cc/oxbtgudop/listas_IPTV-logo.png</thumbnail>
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/LISTAS_IPTV_NEW</externallink>
-</menu> 
+</menu>
+
 <menu>
 <title>[COLOR red]• [/COLOR][COLOR white]RADIO[/COLOR]</title>
 <link>nolink</link>
@@ -43,11 +50,13 @@
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/RADIO_MOD</externallink>
 </menu>
+
 <menu>
 <title>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://s18.postimg.cc/gmmuat3sp/YOUTUBE.png</thumbnail>
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/newmainmenuyt</externallink>
-</menu> 
+</menu>
+
 </menus>
