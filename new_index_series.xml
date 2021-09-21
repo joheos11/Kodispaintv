@@ -33,6 +33,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>9-1-1: LONE STAR</title>
@@ -100,6 +101,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ABSENTIA</title>
@@ -172,6 +174,7 @@
 		</t3>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ALBA</title>
@@ -214,6 +217,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ALGUIEN TIENE QUE MORIR</title>
@@ -232,6 +236,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ALL AMERICAN</title>
@@ -354,6 +359,7 @@
 		</t3>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ANDRES INIESTA: EL HEROE INESPERADO</title>
@@ -372,6 +378,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>ANTIDISTURBIOS</title>
@@ -390,6 +397,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>AQUI Y AHORA ( WE ARE WHO WE ARE )</title>
@@ -422,6 +430,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>BREAKING BAD</title>
@@ -460,6 +469,7 @@
 			<ep5.1>1 AL 16</ep5.1>
 			<id5.1>b548484f86ff2ff57725e03adb3e45a1b5828f3d</id5.1>
 		</t5>
+		<t6/>
 	</serie>
 	<serie>
 		<title>COBRA KAI</title>
@@ -508,6 +518,7 @@
 		</t3>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>EL CID</title>
@@ -541,6 +552,7 @@
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
 	</serie>
 	<serie>
 		<title>AMERICAN HORROR STORIES</title>
@@ -560,10 +572,713 @@
 			<id1.3>2947f0036f9826bc21820a181865fec619b22404</id1.3>
 			<ep1.4>4º</ep1.4>
 			<id1.4>b35d67c7786e79c626053a291a89c5669e4244a5</id1.4>
+			<ep1.5>5º</ep1.5>
+			<id1.5>2af5cfa0558db66c5b61c9629c6a0dddbc803dda</id1.5>
 		</t1>
 		<t2/>
 		<t3/>
 		<t4/>
 		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>YOUR HONOR</title>
+		<info>(2020) 10 episodios. Cuando el hijo de un respetado juez (Bryan Cranston) de Nueva Orleans se ve involucrado en un atropello y fuga, el plan de su padre porque nadie se entere conducirá a un juego de alto riesgo lleno de mentiras, engaños y decisiones imposibles. Todo se complicará más cuando se descubre quién era la víctima y las consecuencias de su identidad.</info>
+		<year>2020</year>
+		<genre>Intriga. Thriller</genre>
+		<thumb>https://www.themoviedb.org/t/p/original/xWJZjIKPeEZhK3JRYKOe06yW6IU.jpg</thumb>
+		<fanart>https://www.themoviedb.org/t/p/original/4e1BHPLIdG46uA9qYdWORLKkNuG.jpg</fanart>
+		<t1>
+			<thumb.1>https://www.themoviedb.org/t/p/original/xWJZjIKPeEZhK3JRYKOe06yW6IU.jpg</thumb.1>
+			<fanart.1>https://www.themoviedb.org/t/p/original/4e1BHPLIdG46uA9qYdWORLKkNuG.jpg</fanart.1>
+			<ep1.1>PARTE 1</ep1.1>
+			<id1.1>0792da18471646132d8ee24d68406d2f529fd75b</id1.1>
+			<ep1.2>PARTE 2</ep1.2>
+			<id1.2>d555754ac226ec256a5c9281429015730056c566</id1.2>
+			<ep1.3>PARTE 3</ep1.3>
+			<id1.3>b769938f080bb31fa612ba1d2efc8f080ae5a9d7</id1.3>
+			<ep1.4>PARTE 4</ep1.4>
+			<id1.4>af875dc04ecea2df59d3e35c9bd59b56b3f2f890</id1.4>
+			<ep1.5>PARTE 5</ep1.5>
+			<id1.5>5ca9dd680fb82127c96be59ce4a51fa6b6ecdbdf</id1.5>
+			<ep1.6>PARTE 6</ep1.6>
+			<id1.6>7ce17dd0751e5683b040c312a55184db570e22b0</id1.6>
+			<ep1.7>PARTE 7</ep1.7>
+			<id1.7>fa65a901a5bfb675763bf0bdb8a479c0dad8b98c</id1.7>
+			<ep1.8>PARTE 8</ep1.8>
+			<id1.8>70e45da9a3aff9a47cce7bce82d285315376dfd2</id1.8>
+			<ep1.9>PARTE 9</ep1.9>
+			<id1.9>b14c426a04bd2fbc823929180b6ae31e87427b3c</id1.9>
+			<ep1.10>PARTE 10</ep1.10>
+			<id1.10>831c7af56eee42224ecf0f122e7e9c2841526233</id1.10>
+		</t1>
+		<t2/>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>YOU</title>
+		<info>(2018) 2 temporadas. 20 episodios. Joe Goldberg (Penn Badgley), un neoyorquino obsesivo pero brillante, aprovecha las nuevas tecnologías para conquistar a Beck (Elizabeth Lail), la mujer de sus sueños. Gracias a la hiperconectividad que ofrece la tecnología moderna, Joe pasa de acosador a novio, pues usando Internet y las redes sociales consigue conocer sus detalles más íntimos para acercarse a ella. Así, lo que empezó como un flechazo encantador, se convertirá en una obsesión mientras él, de forma estratégica y silenciosa, se deshace de todos los obstáculos (y personas) que se crucen en su camino.En enero 2020 Netfix renovó la serie por una 3ª temporada, a estrenar en el 2021.</info>
+		<year>2018</year>
+		<genre>Thriller</genre>
+		<thumb>https://image.tmdb.org/t/p/original/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/q7T2MO1Vk0RQQhm9BHXXQSKc05u.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/6A1cljmEY8No7R1yu3yYGEXaCUa.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/sa7Ya0Rc1KgETjDSmdmfuZZO4kr.jpg</fanart.1>
+			<ep1.1>1 AL 10</ep1.1>
+			<id1.1>c9921404cbe6719590f1cb35cb6f856ddd44f903</id1.1>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/9qZUrhcFVI9MNznVJxdfcrmifof.jpg</thumb.2>
+			<fanart.2>https://image.tmdb.org/t/p/original/gzOIymABxmetAECXtazEYCpMmfb.jpg</fanart.2>
+			<ep2.1>1 AL 10</ep2.1>
+			<id2.1>97e1665c5c515da18e57cc203bf81c260c899f1b</id2.1>
+		</t2>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>WESTWORLD</title>
+		<info>(2016) 3 temporadas 28 episodios. Westworld es un parque de atracciones futurista y controlado por alta tecnología dirigido por el Dr. Robert Ford (Anthony Hopkins). Las instalaciones cuentan con androides cuya apariencia física es humana, y gracias a ellos los visitantes pueden dar rienda suelta a sus instintos y vivir cualquier tipo de aventura o fantasía, por muy oscura o peligrosa que sea, sabiendo que los robots no les harán daño.</info>
+		<year>2016</year>
+		<genre>Ciencia ficción. Western. Drama. Intriga</genre>
+		<thumb>https://image.tmdb.org/t/p/original/pOGk7Hv1jwzVex10oMZ7psgEfVg.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/olPBWYdEX2NQmoczbgEppUyX57H.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/pOGk7Hv1jwzVex10oMZ7psgEfVg.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/olPBWYdEX2NQmoczbgEppUyX57H.jpg</fanart.1>
+			<ep1.1>1 AL 10</ep1.1>
+			<id1.1>f5f181fed62a0e103dc7c7d0ea0c127a5ed68af8</id1.1>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/xiwhkYtnvzXMb3iqItkTcbwqzt7.jpg</thumb.2>
+			<fanart.2>https://image.tmdb.org/t/p/original/oRvpF7Rnp76V8NNrPk4o5AzJ84N.jpg</fanart.2>
+			<ep2.1>1 VIAJE A A NOCHE</ep2.1>
+			<id2.1>205119c024746270e51adb5c161e9cb7a5e6a6fd</id2.1>
+			<ep2.2>2 REUNION</ep2.2>
+			<id2.2>209fed3cd82887fe326a891ba0e42779d7cf0b26</id2.2>
+			<ep2.3>3 VIRTUD Y FORTUNA</ep2.3>
+			<id2.3>dbc4079999d6a6a52228c108af028defb45147ff</id2.3>
+			<ep2.4>4 AL ACERTIJO DE LA ESFINGE</ep2.4>
+			<id2.4>ee9f7d1dc90aba3018d7c3ae70b7bc91a715ee13</id2.4>
+			<ep2.5>5 AKANE NO MAI</ep2.5>
+			<id2.5>61f19a33132457029bcd1491ebd207c7f27e5a32</id2.5>
+			<ep2.6>6 ESPACIO FASICO</ep2.6>
+			<id2.6>c008b19dea8f2943ff15b0d10686e6e71ed8645d</id2.6>
+			<ep2.7>7 LES ESCORCHES</ep2.7>
+			<id2.7>c72143ffe4b087f66d05537fe359b8939403d1aa</id2.7>
+			<ep2.8>8 KIKSUYA</ep2.8>
+			<id2.8>1685a5337ce19ddf35527a24b9ea5a876d332b2a</id2.8>
+			<ep2.9>9 PUNTO DE FUGA</ep2.9>
+			<id2.9>e5f181ecbb86b07a0816f9a69653670744898058</id2.9>
+			<ep2.10>10 LA PASAJERA</ep2.10>
+			<id2.10>2b5d8ccf91252df178b1a2d8d1c947e97c1b35dd</id2.10>
+		</t2>
+		<t3>
+			<thumb.3>https://image.tmdb.org/t/p/original/gHr8blVOi7Zmbj9dQ98cixqvrQj.jpg</thumb.3>
+			<fanart.3>https://image.tmdb.org/t/p/original/btmFNphBZurRjIYwP515BmOkNtr.jpg</fanart.3>
+			<ep3.1>1 PARCE DOMINE</ep3.1>
+			<id3.1>83c17a98851319512f5069004d339a1e3426afaf</id3.1>
+			<ep3.2>2 LA LINEA INVERNAL</ep3.2>
+			<id3.2>9ea051f16f53727e1d10e07c7f318d32af00f467</id3.2>
+			<ep3.3>3 LA AUSENCIA DE CAMPO</ep3.3>
+			<id3.3>49a3750450aceb3aba0b6639c622030cb66bf9d0</id3.3>
+			<ep3.4>4 LA MADRE DE EXILIADOS7002ee953e82f3ef9b87e74c72c0e99769d7536b</ep3.4>
+			<ep3.5>5 GENRE</ep3.5>
+			<id3.5>2e958844315f05895fd7b2ddae7b9f027f3c81b6</id3.5>
+			<ep3.6>6 DECOHERENCIA</ep3.6>
+			<id3.6>c0916ceff97a3520f131ae7d8068ea01cd5d31c2</id3.6>
+			<ep3.7>7 PEON DEL PASADO</ep3.7>
+			<id3.7>88c58878498f0a45a9914fc2c389ec15c9d3f1e7</id3.7>
+			<ep3.8>8 TEORIA DE LA CRISIS</ep3.8>
+			<id3.8>8d43c577e58edf343d15c018017f70b7d85fc15f</id3.8>
+		</t3>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>WARRIOR</title>
+		<info>(2019)  2 temporadas. 20 episodios. A finales del siglo XIX, un prodigio de las artes marciales llega desde China a San Francisco, inmerso en una sangrienta guerra de bandas en el barrio de Chinatown, revolucionando la ciudad... Serie basada en algunos escritos de Bruce Lee.</info>
+		<year>2019</year>
+		<genre>Acción. Drama</genre>
+		<thumb>https://image.tmdb.org/t/p/original/wMszXKAZrT9JhA1gaizIjPlFiXX.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/4EoVP87zJ7SDZGbYLjz439Avn2S.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/obT6uoln7cA0pvQlqqoZ4IvjPml.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/jSBUu67DL0ajUo2e8b2orVX2TOw.jpg</fanart.1>
+			<ep1.1>1 EL CHINCHE QUE PICA</ep1.1>
+			<id1.1>50a0ead7d394af1fab6ead412dfa6bbb1d384b5a</id1.1>
+			<ep1.2>2 EN LA BIBLIA NO HAY CHINOS</ep1.2>
+			<id1.2>48edb1b00b58520bee148a6ea1d9c56bb2bcb766</id1.2>
+			<ep1.3>3 JOHN DE LA CHINA</ep1.3>
+			<id1.3>22018a0e7d136e9de0afb7f3fce70806f268bae0</id1.3>
+			<ep1.4>4 LA MONTAÑA BLANCA</ep1.4>
+			<id1.4>aefdc98faded857d59d97b84bfe8908ba96c5bf6</id1.4>
+			<ep1.5>5 LA SANGRE Y LA MIERDA</ep1.5>
+			<id1.5>6235128b150785d12f1b2443df694ed1941b4d3f</id1.5>
+			<ep1.6>6 APALEADO, ESCUPIDO Y PISOTEADO</ep1.6>
+			<id1.6>806575daa485d219390a2c2e43380110f3095c8c</id1.6>
+			<ep1.7>7 EL TIGRE Y EL ZORRO</ep1.7>
+			<id1.7>7c35fa59faf4592bac5b1427769ba58dd346e3f9</id1.7>
+			<ep1.8>8 PENSAR NO ESTA INCLUIDO EN LA NOMINA</ep1.8>
+			<id1.8>8b9419dfec2b5f7b91d9f55e96012ec71ccc9dea</id1.8>
+			<ep1.9>9 BOXEO CHINO</ep1.9>
+			<id1.9>bb093ac81be80e1c66912cbccf1b9959d49360db</id1.9>
+			<ep1.10>10 SI VAS A INCLINARTE, DOBLATE BIEN</ep1.10>
+			<id1.10>cf279d7ea811cd6c231635a2c51cb5177b885a1c</id1.10>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/eLPxEM7WAvljjFv4UwJ1awhANa9.jpg</thumb.2>
+			<fanart.2>https://image.tmdb.org/t/p/original/baA21LCF2LSOrExY19e5RvTCZ1R.jpg</fanart.2>
+			<ep2.1>1 APRENDE A AGUANTAR O CONTRATA UN GUARDAESPALDAS</ep2.1>
+			<id2.1>350fb1792ec8608e21d8502f84373241de072948</id2.1>
+			<ep2.2>2 LA CONEXION CHINA</ep2.2>
+			<id2.2>fb794e03331f80927743d83539fac9849279708f</id2.2>
+			<ep2.3>3 NO ES COMO HACEMOS NEGOCIOS</ep2.3>
+			<id2.3>e12ee46bbcf3a5fecad7c03ec38854a375c44836</id2.3>
+			<ep2.4>4 SI NO VES SANGRE, NO HAS VENIDO A JUGAR</ep2.4>
+			<id2.4>617c23eb5ccd4a2b81a3b2d79d7d20b82add36e3</id2.4>
+			<ep2.5>5 NI POR BEBER, NI POR COGER, NI POR UNA MALDITA PLEGARIA</ep2.5>
+			<id2.5>3aa8aa02cb4c19d7d0ca38eaa1162ff27bbc6925</id2.5>
+			<ep2.6>6 PARA UN HOMBRE CON UN MARTILLO, TODO PARECE UN CLAVO</ep2.6>
+			<id2.6>4e557d9d2e46322f893dc9cab20ea00ca7ecf296</id2.6>
+			<ep2.7>7 SI ESPERAS LO SUFICIENTE JUNTO AL RIO...</ep2.7>
+			<id2.7>20c250caecd7d9b3f4650dd507bf81870eadda1d</id2.7>
+			<ep2.8>8 TODOS LOS ENEMIGOS, EXTRANJEROS O INTERNOS</ep2.8>
+			<id2.8>2f29d8d0ca5abf073d3a3c810c7c5ce10a171925</id2.8>
+			<ep2.9>9 ENTRA EL DRAGON</ep2.9>
+			<id2.9>2f29d8d0ca5abf073d3a3c810c7c5ce10a171925</id2.9>
+			<ep2.10>10 HOMBRE EN LA PARED</ep2.10>
+			<id2.10>82d78786bf3f016336c748a1d2e73c5204609ea9</id2.10>
+		</t2>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>WATCHMEN</title>
+		<info>(2019) 1 temporada. 9 episodios. Ambientada en un universo alternativo en el que los vigilantes enmascarados son tratados como criminales, la serie 'Watchmen' utiliza el universo del cómic original creado por Alan Moore para crear un contenido completamente nuevo.</info>
+		<year>2019</year>
+		<genre>Thriller. Fantástico. Ciencia ficción. Intriga</genre>
+		<thumb>https://image.tmdb.org/t/p/original/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/gFeaXBnOO14aOQhMQrr5tbyhMTw.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/gFeaXBnOO14aOQhMQrr5tbyhMTw.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</fanart.1>
+			<ep1.1>1 ES VERANO Y NOS ESTAMOS QUEDANDO SIN HIELO</ep1.1>
+			<id1.1>09f1220d3fb77bdd56e41ad09f33084529e12003</id1.1>
+			<ep1.2>2 PROEZAS DE EQUITACION COMANCHE</ep1.2>
+			<id1.2>a76f71e0b1475318d7fbd4b176d050174cd3ea4a</id1.2>
+			<ep1.3>3 ELLA FUE ASESINADA POR BASURA ESPACIAL</ep1.3>
+			<id1.3>8186b07a118d7d3aabc8ee13e013fb8c1107e74b</id1.3>
+			<ep1.4>4 SI NO TE GUSTA MI HISTORIA ESCRIBE LA TUYA</ep1.4>
+			<id1.4>ef472b4065d6d19144723b153303e60c69ecd53a</id1.4>
+			<ep1.5>5 POCO TEMOR A LOS RAYOS</ep1.5>
+			<id1.5>7dfd4bc9debc49ca69a8149ce27e2a255612c822</id1.5>
+			<ep1.6>6 ESTE SER EXTRAORDINARIO</ep1.6>
+			<id1.6>b03aefc0da4fbec30d0599aa2312237b9f84761a</id1.6>
+			<ep1.7>7 UN TEMOR CASI RELIGIOSO</ep1.7>
+			<id1.7>d96cc7bf631b2c1362caab92a7f0676c6740cf4f</id1.7>
+			<ep1.8>8 UN DIOS ENTRA EN UN BAR</ep1.8>
+			<id1.8>2fd36fd8c0e0857e7e95f945675eca62958578bb</id1.8>
+			<ep1.9>9 MIRA COMO VUELAN</ep1.9>
+			<id1.9>2b1d5ef1863fc6aa03bdd3d34bd748427449d4a8</id1.9>
+			<ep1.10>1 AL 9 ( 1080 )</ep1.10>
+			<id1.10>647f806a5986d5ac04ccb4935ca3d48b612c27d2</id1.10>
+		</t1>
+		<t2/>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>VIVIR SIN PERMISO</title>
+		<info>(2018-2020)  2 temporadas 23 episodios. Nemesio 'Nemo' Bandeira (José Coronado) es un hombre que se enriqueció en el pasado con actividades ilegales pero que ha conseguido blanquear su trayectoria hasta erigirse en uno de los empresarios más influyentes de Galicia, a través de una importante compañía conservera. Cuando a Nemo le diagnostican alzheimer, tratará de ocultar su enfermedad para no mostrarse vulnerable mientras pone en marcha el proceso para elegir a su sucesor, lo que provoca una hecatombe en la familia. Sus dos hijos legítimos que nunca han tenido interés alguno por los negocios, de pronto intentan demostrar que cada cual es el candidato más adecuado. Su ahijado, el brillante e implacable abogado Mario Mendoza, es objetivamente el más preparado, aunque carece de algo vital: llevar la misma sangre que su padrino. Al saber que Nemo no le contempla como heredero del imperio, pondrá en marcha su propio plan sin abandonar su encantadora sonrisa, lo que le convertirá en el más peligroso y despiadado de sus enemigos.</info>
+		<year>2018</year>
+		<genre>Drama</genre>
+		<thumb>https://image.tmdb.org/t/p/original/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/n5QKXx4XjbnqO5GbBAgowgfK6v6.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/8ajHJm9g6CRGdGeaoKHr3hD4n75.jpg</fanart.1>
+			<ep1.1>1 LLAMADME NEMO</ep1.1>
+			<id1.1>0affa7f588f6ebe9dc7dfafa71ecbe8817e6fc4b</id1.1>
+			<ep1.2>2 EL VALOR DE LA PALABRA</ep1.2>
+			<id1.2>c137229446418314d913f5b68aaf88bafda85f10</id1.2>
+			<ep1.3>3 TIBURONES Y OTROS PECES</ep1.3>
+			<id1.3>33be3b8d4334e8ffc8520919ff293a855d389e9f</id1.3>
+			<ep1.4>4 LA BOFETADA</ep1.4>
+			<id1.4>065fe766cfb9293dc6ef00fc8618a22d3e439161</id1.4>
+			<ep1.5>5 LEJOS DE AQUI</ep1.5>
+			<id1.5>e255695bc5a7215701e6877d48aa9004a2c45133</id1.5>
+			<ep1.6>6 AIRES DE CAMBIO</ep1.6>
+			<id1.6>c90db23c7780ab88d314c7eab2e10bd40ee5e0bb</id1.6>
+			<ep1.7>7 SI ESTAS PERDIENDO TU ALMA</ep1.7>
+			<id1.7>0a5b94266c1d9727dfc1b1532709e4ad6599de84</id1.7>
+			<ep1.8>8 SACRIFICIOS</ep1.8>
+			<id1.8>030c12600f47abcaf187d6b19f115099ddf012a6</id1.8>
+			<ep1.9>9 UNA FAMILIA UNIDA</ep1.9>
+			<id1.9>c62b12a737126a39c7c04034b3b8834fc758f15f</id1.9>
+			<ep1.10>10 INCAPACES</ep1.10>
+			<id1.10>5e23a9a3c4d314b6c2472c64303e94923d70eb61</id1.10>
+			<ep1.11>1 A 10 ( 1080)</ep1.11>
+			<id1.11>806300bbe34d2a24b56042371b9e0346593f706b</id1.11>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg</thumb.2>
+			<fanart.2>https://image.tmdb.org/t/p/original/28UmVogNlxAQmIHVcLnrPaEKMIS.jpg</fanart.2>
+			<ep2.1>1 AL 10 (1080)</ep2.1>
+			<id2.1>4d47eec6e2fc59eb10de0dbd80d4bfb97f068b85</id2.1>
+			<ep2.2>1 MIL RAZONES PARA NO VOLVER</ep2.2>
+			<id2.2>405d3938eeb34feb9ae235b90fe1a610821ba176</id2.2>
+			<ep2.3>2 EL REY SOLITARIO</ep2.3>
+			<id2.3>f225c12e902914b542609ed12682605ac94ec25c</id2.3>
+			<ep2.4>3 CREE EN MI</ep2.4>
+			<id2.4>e48d9bfa0d27091c5008e65ec059f8fa862047c1</id2.4>
+			<ep2.5>4 EL LEON ENJAULADO</ep2.5>
+			<id2.5>62ebb8bef7a53476cbbed6421cdec25846750503</id2.5>
+			<ep2.6>5 EL PRIMER ERROR</ep2.6>
+			<id2.6>199fd2d6caa189eb6ab461a4542888a324553b7d</id2.6>
+			<ep2.7>6 EL ULTIMO DESEMBARCO</ep2.7>
+			<id2.7>d5aa9c0e1376127d82637011438e92caafa51a6f</id2.7>
+			<ep2.8>NO TE GUARDO RENCOR</ep2.8>
+			<id2.8>87f714e7537cc76815ee4f6abd794d88d6bb9ff3</id2.8>
+			<ep2.9>8 UN MAL MENOR</ep2.9>
+			<id2.9>6e91b0145597dc738ef4bd2c5e4d807bcfdc9d78</id2.9>
+			<ep2.10>9 UN LUGAR MUY OSCURO</ep2.10>
+			<id2.10>1ee6b902910e2ca49409170062dec3838be17a59</id2.10>
+			<ep2.11>10 ANTES DE IRME</ep2.11>
+			<id2.11>fc2a522e6d736bafc0c551ade40032126b34f49f</id2.11>
+		</t2>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>VIS A VIS</title>
+		<info>(2015-2019)  4 temporadas 40 episodios. Narra las vivencias en prisión de Macarena, una joven frágil e inocente que nada más ingresar en la cárcel se ve inmersa en una difícil situación a la que tendrá que aprender a adaptarse. Además del shock que le supone acabar de golpe con su placentera vida acomodada, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón.</info>
+		<year>2015</year>
+		<genre>Thriller. Drama</genre>
+		<thumb>https://image.tmdb.org/t/p/original/aaVkpxuhpfn09wKl6KAyahYtZfn.jpg</thumb>
+		<fanart>https://imgur.com/QfHKTb9.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/aaVkpxuhpfn09wKl6KAyahYtZfn.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/lEfjcTqToU4K5zJgN16CnU9C8hT.jpg</fanart.1>
+			<ep1.1>1 UN MAL DIA</ep1.1>
+			<id1.1>2c14da8a18b8c2bcc24b6eca82ca24d395cbc5fc</id1.1>
+			<ep1.2>2 COSIENDO A CAMPANILLA</ep1.2>
+			<id1.2>e0525d2e46d4a0240d1da7d2450c5427220a8a3e</id1.2>
+			<ep1.3>LO QUE SUCEDE, CONVIENE</ep1.3>
+			<id1.3>a113fa7a97dcde7d777562816a8481d5520ca412</id1.3>
+			<ep1.4>4 UN DIA DE CAMPO</ep1.4>
+			<id1.4>52ea95b3e1b6482036c1f50024dce0424909f9a2</id1.4>
+			<ep1.5>5 LA CRUDA REALIDAD</ep1.5>
+			<id1.5>8dc990dd7a6d49b43d58b144094ce736e7bb1665</id1.5>
+			<ep1.6>6 TE VENDRAN A BUSCAR...</ep1.6>
+			<id1.6>f9129f105f6e9c3f70afbeb89481231e967f567c</id1.6>
+			<ep1.7>7 A LAS CINCO EN PUNTO DE LA TARDE</ep1.7>
+			<id1.7>44a99cfec48a53b9659c0a565e9f204f76cb53d8</id1.7>
+			<ep1.8>8 PRETTY WOMAN</ep1.8>
+			<id1.8>366056f66cdcddf5d661a3843847b7bc8ad012e9</id1.8>
+			<ep1.9>9 NEGRA, NEGRITA, NEGRATA</ep1.9>
+			<id1.9>a8cbacf14aa1ad5893cad90145186a738dc9b725</id1.9>
+			<ep1.10>10 GATO GRIS</ep1.10>
+			<id1.10>7e83ac5296a77112f828534660a56331bddcc7eb</id1.10>
+			<ep1.11>11 EL PRINCIPIO DE LAS TORTUGAS</ep1.11>
+			<id1.11>184b83b92c17143a84995d2e1266c487d7242161</id1.11>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/JHodKMDhQmZhUHZWmXdJlTJWaJ.jpg</thumb.2>
+			<fanart.2>https://i.imgur.com/Pp5Y9hf.jpg</fanart.2>
+			<ep2.1>1 A UN MONO DOS PISTOLAS</ep2.1>
+			<id2.1>0753316938540D8C8705E61756EA701661CD83FA</id2.1>
+			<ep2.2>2 HOGAR DULCE HOGAR</ep2.2>
+			<id2.2>E508EC1AD8CD59A632590068AEFFFF52D65F08FD</id2.2>
+			<ep2.3>3 LA GALLINITA</ep2.3>
+			<id2.3>D22CF1BEEB48C001A5C60ABB5630A38C42B54A27</id2.3>
+			<ep2.4>4 LA TEORIA DE DARWIN</ep2.4>
+			<id2.4>DD6D9ABA88953D78CCF7CE322C3B15EA4E7BD3D7</id2.4>
+			<ep2.5>5 EN LA LINEA DE FUEGO</ep2.5>
+			<id2.5>9fd842ce69295d393e9a471222d4431e9fa3df96</id2.5>
+			<ep2.6>6 LOS MANDRILES</ep2.6>
+			<id2.6>b83ded565feac1995e0b896f4361b5a34eaeafe8</id2.6>
+			<ep2.7>7 BON APPETIT</ep2.7>
+			<id2.7>ca7e5595980cb1c5ddb53a36172a7fa237c441b0</id2.7>
+			<ep2.8>8 LA VIDA SIGUE</ep2.8>
+			<id2.8>0ee50472d49cff5e7d6af789e35555353832c9b2</id2.8>
+			<ep2.9>9 PILLARSE LOS DEDOS</ep2.9>
+			<id2.9>511dd010058f21a175f33c2ef99b79136aa5fcf0</id2.9>
+			<ep2.10>10 PECADOS Y CONFUSIONES</ep2.10>
+			<id2.10>b5ab5eed856dfda9c4886c3094c36e50f1e47a46</id2.10>
+			<ep2.11>11 PATRONA DE LOS DESESPERADOS</ep2.11>
+			<id2.11>ae636a02cba2a23f1c34b3f8ec75eb588337f7ec</id2.11>
+			<ep2.12>12 PLATANO Y LIMON</ep2.12>
+			<id2.12>e5fbd393db1ca1ab37547734c562da30a3bf0ee0</id2.12>
+		</t2>
+		<t3>
+			<thumb.3>https://image.tmdb.org/t/p/original/ub4lfjF8t1N2Z8CJbj4Rkpbp0WD.jpg</thumb.3>
+			<fanart.3>https://image.tmdb.org/t/p/original/ck4WJ3dLXzUd3cNgujxuuk0QvlW.jpg</fanart.3>
+			<ep3.1>1 CRUZ DEL NORTE</ep3.1>
+			<id3.1>ec23fac0f40bd70c20e5e422dd0659cd95850d0d</id3.1>
+			<ep3.2>2 MUY FACIL O MUY DIFICIL</ep3.2>
+			<id3.2>3aa0e64c69b5e9794a745288234f37605bfbe234</id3.2>
+			<ep3.3>3 UN GRANO DE ARROZ</ep3.3>
+			<id3.3>b9ee2919af09f2f24500ed94edc02aba2eb3945f</id3.3>
+			<ep3.4>4 LA BANDERA EN EL MURO</ep3.4>
+			<id3.4>2e7d0cd7d0f6f9a501e436f2eb8dd250a8873396</id3.4>
+			<ep3.5>5 ALGUIEN A QUIEN LE IMPORTES UNA MIERDA</ep3.5>
+			<id3.5>97c0e1127f08884af7eb8e8cbe657e4dc6dfab12</id3.5>
+			<ep3.6>6 SEIS MESES DAN PARA MUCHO</ep3.6>
+			<id3.6>2347c910177c5b59c4aa30bfa79612bd7d2d1fea</id3.6>
+			<ep3.7>7 FUIMOS NIÑAS</ep3.7>
+			<id3.7>1ad7caf43f640e0d586d7037128b6ebf8ea91098</id3.7>
+			<ep3.8>8 LO QUE SABEMOS DE LOS MONSTRUOS</ep3.8>
+			<id3.8>c331de019ed92fe79225664d5a337060f5dd69bd</id3.8>
+		</t3>
+		<t4>
+			<thumb.4>https://image.tmdb.org/t/p/original/9LGeuwGWjeKT0owBUiXSTIZKyyM.jpg</thumb.4>
+			<fanart.4>https://image.tmdb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart.4>
+			<ep4.1>1 LA BARBIE</ep4.1>
+			<id4.1>aef741ad66e7483959736cebe648c2f0cfb881b6</id4.1>
+			<ep4.2>2 LA FUGA</ep4.2>
+			<id4.2>5240728c0cfc5185fc6710ee08e81bb05f26a880</id4.2>
+			<ep4.3>3 EL UMBRAL DEL DOLOR</ep4.3>
+			<id4.3>cafb2d9012be52508253c1e4650c8bcaddbefe3a</id4.3>
+			<ep4.4>4 MAMA</ep4.4>
+			<id3.4>a35c7e812c15d0a733c4d5836e654c03e86aa01c</id3.4>
+			<ep4.5>5 TRAICION</ep4.5>
+			<id4.5>26bd207f0601a8c4b317915ed5986f416cdb332e</id4.5>
+			<ep4.6>6 MALA PERSONA</ep4.6>
+			<id4.6>ed9c2e1b8c291c6fb72988cd24fbb58963d59552</id4.6>
+			<ep4.7>7 VUELTA A CASA</ep4.7>
+			<id4.7>165c1616e98758c49189e6d4067c1d95fc5b1604</id4.7>
+			<ep4.8>8 LA MAREA AMARILLA</ep4.8>
+			<id4.8>62a2b7eb734458c84a060d82a8e09de64298a73e</id4.8>
+		</t4>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>VIS A VIS EL OASIS</title>
+		<info>(2020)  8 episodios. Zulema y Maca serán las protagonistas de esta secuela / spin-of de "Vis a Vis", que contará con otras actrices de la serie original.</info>
+		<year>2020</year>
+		<genre>Thriller. Drama</genre>
+		<thumb>https://image.tmdb.org/t/p/original/7EOWkNGxXq2MBZxfV3ZxjRM4vlH.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/7wm4CH6LbsFul4wWmmfXGcStVsk.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/7EOWkNGxXq2MBZxfV3ZxjRM4vlH.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/7wm4CH6LbsFul4wWmmfXGcStVsk.jpg</fanart.1>
+			<ep1.1>1 COMO ESOS MATRIMONIOS QUE ANTES DE SEPARARSE TIENEN UN HIJO</ep1.1>
+			<id1.1>320d27c5ea4cf4677e5c675e499b0c418a19deee</id1.1>
+			<ep1.2>2 LA BODA</ep1.2>
+			<id1.2>62b476f0d6cc1a3a09da46292c17842ad223a524</id1.2>
+			<ep1.3>3 COMO TE QUIERE UNA MADRE</ep1.3>
+			<id1.3>4bc1fa2d0b076907779a147298350408d8a4af36</id1.3>
+			<ep1.4>4 IGUALES O NADA</ep1.4>
+			<id1.4>ef8157054a8d6573d6f93077b44e5c6483bee57b</id1.4>
+			<ep1.5>5 LA VIDA DE LOS MOSQUITOS</ep1.5>
+			<id1.5>d6691c316304e6bee7c4ad9375cd2b4c6bf6b5f9</id1.5>
+			<ep1.6>6 ODIO EL SENTIMENTALISMO</ep1.6>
+			<id1.6>be26f3ee20e43cf7106768e38f92f5c506cc6001</id1.6>
+			<ep1.7>7 LA LINEA ROJA</ep1.7>
+			<id1.7>6026d9b817da838ece50892f25ec184b94287515</id1.7>
+			<ep1.8>8 ¿QUIEN ERA ZULEMA ZAHIR?</ep1.8>
+			<id1.8>f6787afa832c992dd28eb13d1108a49455816bd0</id1.8>
+		</t1>
+		<t2/>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>VIKINGOS</title>
+		<info>(2013-2020)  6 temporadas  89 episodios. Narra las aventuras del héroe Ragnar Lothbrok, de sus hermanos vikingos y su familia, cuando él se subleva para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses. Según la leyenda era descendiente directo del dios Odín.</info>
+		<year>2013</year>
+		<genre>Acción. Drama. Bélico</genre>
+		<thumb>https://image.tmdb.org/t/p/original/fGb2THKXCQK1SiPT59ARt5Sg9kY.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/wPOmXBgjy4xrxxw5gyVFDfhx8Ii.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/eIuUgn7ZUMCE2pQU4Omg9SuGYWT.jpg</fanart.1>
+			<ep1.1>1 AL 9 (1080)</ep1.1>
+			<id1.1>78e3a93ca2f6275ee8d1c9148df66c9af5048254</id1.1>
+			<ep1.2>1 RITOS DE INICIACION</ep1.2>
+			<id1.2>e427d332d3d6657fa75ef20db8baa420e220922e</id1.2>
+			<ep1.3>2 LA IRA DE LOS VIKINGOS</ep1.3>
+			<id1.3>61e66b7c410cea0f0023408ed76800b62661cbbb</id1.3>
+			<ep1.4>3 DESPOJADOS</ep1.4>
+			<id1.4>2980fa903f55b82a640a627bdb54b92ae5f5514f</id1.4>
+			<ep1.5>4 PRUEBA</ep1.5>
+			<id1.5>dbc590818038901a89be154a96cc690a5e4655f1</id1.5>
+			<ep1.6>5 ATAQUE</ep1.6>
+			<id1.6>b6753c62a4c53de16112b7224b6172c47020bd7f</id1.6>
+			<ep1.7>6 SEPULTURA PARA LOS MUERTOS</ep1.7>
+			<id1.7>52a5edf4e89aeabfd499dba535e2f6da73dd4bab</id1.7>
+			<ep1.8>7 RESCATE REAL</ep1.8>
+			<id1.8>6ee3ae3e34efb503a3174c7b209cc033258d2ffc</id1.8>
+			<ep1.9>8 SACRIFICIO</ep1.9>
+			<id1.9>95fb693a92a3d4d1e321e7c2ac99e1f61e3f54f1</id1.9>
+			<ep1.10>9 FIN DE TRAYECTO</ep1.10>
+			<id1.10>9e71a59843ddbbd465f15f73169a6e8e317dfe3a</id1.10>
+		</t1>
+		<t2>
+			<thumb.2>https://image.tmdb.org/t/p/original/g2Pgu5Dae9P99yJs0xZQtEagA76.jpg</thumb.2>
+			<fanart.2>https://image.tmdb.org/t/p/original/dNeSt5qfIOOjLAOkW4z0Q5wmZLq.jpg</fanart.2>
+			<ep2.1>1 AL 10 (1080)</ep2.1>
+			<id2.1>934b749ab036d635dc80cb0b9d40e40e8cf1f17b</id2.1>
+			<ep2.2>1 GUERRA DE HERMANOS</ep2.2>
+			<id2.2>1d9e1ecfa166ced3b62780c1a38b2933dacf23f4</id2.2>
+			<ep2.3>2 INVASION</ep2.3>
+			<id2.3>42e42ae3bead189e18e38de188b7e5564b0dd2ad</id2.3>
+			<ep2.4>3 TRAICION</ep2.4>
+			<id2.4>2ea330f856be97ed760d73fb21c29449b5a52a8e</id2.4>
+			<ep2.5>4 OJO POR OJO</ep2.5>
+			<id2.5>95201e7ca1734ff578eb9a82bcd06656670200b8</id2.5>
+			<ep2.6>5 RESPUESTAS SANGRIENTAS</ep2.6>
+			<id2.6>5d710a4652544b2d3ee041cdf86c843f17570470</id2.6>
+			<ep2.7>6 SIN PERDON</ep2.7>
+			<id2.7>8036db85f319efd98fc59466cc01626766722ada</id2.7>
+			<ep2.8>7 EL AGUILA DE SANGRE</ep2.8>
+			<id2.8>effb75e9b17d9d73c17022a3b4866cb7b2834d64</id2.8>
+			<ep2.9>8 SIN HUESO</ep2.9>
+			<id2.9>803f108803b0dfc331db651591c1360847cec18a</id2.9>
+			<ep2.10>9 LA ELECCION</ep2.10>
+			<id2.10>75d0f0c30dcb64648cd2db98eacff997d3eccacb</id2.10>
+			<ep2.11>10 LA ORACION DEL SEÑOR</ep2.11>
+			<id2.11>150853fcb0932126b0a097064800923529ecab3a</id2.11>
+		</t2>
+		<t3>
+			<thumb.3>https://image.tmdb.org/t/p/original/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg</thumb.3>
+			<fanart.3>https://image.tmdb.org/t/p/original/54kFJxbMdlCwGZstCGGcLNXIisU.jpg</fanart.3>
+			<ep3.1>1 AL 10 (1080)</ep3.1>
+			<id3.1>8a33806e436f40cb0c7d7243ca00c1d7fa1d3b3d</id3.1>
+			<ep3.2>1 MERCENARIO</ep3.2>
+			<id3.2>8a9113f7b12cf404e3f0cba34acebe8be7225591</id3.2>
+			<ep3.3>2 EL ERRANTE</ep3.3>
+			<id3.3>320a57cd4c23ae1dc34a9bec380cd2395a9558c2</id3.3>
+			<ep3.4>3 EL SINO DEL GUERRERO</ep3.4>
+			<id3.4>fe5dc8b2eb8fdb5816b796d69f996f24dd79b099</id3.4>
+			<ep3.5>4 MARCADA</ep3.5>
+			<id3.5>fe4092d9964e7aafa556f2637b2c45509dd93842</id3.5>
+			<ep3.6>5 EL USURPADOR</ep3.6>
+			<id3.6>922eb6cc2feb1955202694eedd1d4394c66e6418</id3.6>
+			<ep3.7>6 RENACIDO</ep3.7>
+			<id3.7>6b333cab57b9e4450ea74dcb2ea81be1eb1b4768</id3.7>
+			<ep3.8>7 PARIS</ep3.8>
+			<id3.8>c22cd6c2f002bfae22238d87e948a74673d73d2d</id3.8>
+			<ep3.9>8 A LAS PUERTAS</ep3.9>
+			<id3.9>9a1ceb5d273a8b4fb7dac84637525d3f8dbb4a3c</id3.9>
+			<ep3.10>9 PUNTO CRITICO</ep3.10>
+			<id3.10>a48f8f91551139f2aa47fc5322d52cef815c9529</id3.10>
+			<ep3.11>10 LOS MUERTOS</ep3.11>
+			<id3.11>5faf9ed5939981cd5c83df8916c0416da9e2f3b8</id3.11>
+		</t3>
+		<t4>
+			<thumb.4>https://image.tmdb.org/t/p/original/nHJHNRApy8vmTUvZx59l1f1GXzB.jpg</thumb.4>
+			<fanart.4>https://image.tmdb.org/t/p/original/yzDvrRi8JrrG9rePRmswfUTWe0D.jpg</fanart.4>
+			<ep4.1>1 AL 20 (1080)</ep4.1>
+			<id4.1>ec718fb6681b568b740c51ce177d3c59e1444d6f</id4.1>
+			<ep4.2>1 UNA BUENA TRAICION</ep4.2>
+			<id4.2>cc58ea1e54d9fc43bac77e25abb338721b91dfef</id4.2>
+			<ep4.3>2 MATAR A LA REINA</ep4.3>
+			<id4.3>4c66a62e41b4d390b1bb0e33f077d0a21daf72d1</id4.3>
+			<ep4.4>3 MISERICORDIA</ep4.4>
+			<ep4.5>4 EL SOLSTICIO DE INVIERNO</ep4.5>
+			<id4.5>fc3ea84ba843473c59fafe0d1e8e7a1cc51ba9d4</id4.5>
+			<ep4.6>5 PROMETIDA</ep4.6>
+			<id4.6>d7718ebceaa6c9b2fe5670288b148b26d0acea39</id4.6>
+			<ep4.7>6 LO QUE PODRIA HABER SIDO</ep4.7>
+			<id4.7>15936ab094811b34b14b0a73af61edc85ffa50c7</id4.7>
+			<ep4.8>7 EL BENEFICIO Y LA PERDIDA</ep4.8>
+			<id4.8>1f38a943c42fb0bb097bb1de12293f6e0417749b</id4.8>
+			<id4.4>37cdda61388d3caa50c9e9cf26ce3a555d98b15f</id4.4>
+			<ep4.9>8 PORTEO</ep4.9>
+			<id4.9>7c892a54ecdfcb4c5c41d45b9eac540b3baee52f</id4.9>
+			<ep4.10>9 MUERTE ALREDEDOR</ep4.10>
+			<id4.10>509fec9858f2b54e77a9bd582182ddd78bc6e9d4</id4.10>
+			<ep4.11>10 EL ULTIMO BARCO</ep4.11>
+			<id4.11>655deeaa0b65d906b38d68ae81aae755469ae12e</id4.11>
+			<ep4.12>11 EL FORASTERO</ep4.12>
+			<id4.12>0155ac08cb4631293dbd6d55f48aa9556799aacd</id4.12>
+			<ep4.13>12 LA VISION</ep4.13>
+			<id4.13>bf8006141259a5270bd9e13ad369537f4e6c9410</id4.13>
+			<ep4.14>13 DOS VIAJES</ep4.14>
+			<id4.14>b005c0c796cbe71f8babd850938d900f4a6d015b</id4.14>
+			<ep4.15>14 EN ESA HORA INCIERTA DEL ALBA</ep4.15>
+			<id4.15>5bccf1e880956556874984b3931112f1c4363b49</id4.15>
+			<ep4.16>15 TODOS SUS ANGELES</ep4.16>
+			<id4.16>cbb262540ae794e40d32071e86e99caee1079cde</id4.16>
+			<ep4.17>16 VIAJES</ep4.17>
+			<id4.17>fa3b9a588f083cc95023d7788fa1997818e3670a</id4.17>
+			<ep4.18>17 EL GRAN EJERCITO</ep4.18>
+			<id4.18>fe68081cb1b10fff366f2a45b6e003d93bd8d0f4</id4.18>
+			<ep4.19>18 VENGANZA</ep4.19>
+			<id4.19>dbc573cf053b4a133a12f3f70cbd782dcf099a89</id4.19>
+			<ep4.20>19 EN VISPERAS</ep4.20>
+			<id4.20>d5da79cf412b693abf7d2d7ecd61ca88e2f98ef8</id4.20>
+			<ep4.21>20 AJUSTES DE CUENTAS</ep4.21>
+			<id4.21>2bf72a9c03bdeb867bc9066ba62f3ecd1df3a1d8</id4.21>
+		</t4>
+		<t5>
+			<thumb.5>https://image.tmdb.org/t/p/original/745J5LgH1Qlq82QX3BxekPsqXt4.jpg</thumb.5>
+			<fanart.5>https://image.tmdb.org/t/p/original/wPOmXBgjy4xrxxw5gyVFDfhx8Ii.jpg</fanart.5>
+			<ep5.1>1 AL 20 (1080)</ep5.1>
+			<id5.1>1e73f9bad0f11735c89bbe6e7e7f01ca5d752167</id5.1>
+			<ep5.2>1 EL REY PESCADOR</ep5.2>
+			<id5.2>5237de6be4166d7c41a81f981d92a14cd97e412a</id5.2>
+			<ep5.3>2 LOS DIFUNTOS</ep5.3>
+			<id5.3>7cfc5522163ab46fcc2438a843b8a025a57255d0</id5.3>
+			<ep5.4>3 PATRIA</ep5.4>
+			<id5.4>e49c55412d0a80a459cf60f26265958566564512</id5.4>
+			<ep5.5>4 EL PLAN</ep5.5>
+			<id5.5>662a6031d43babb01cd48be49f57993a3357e739</id5.5>
+			<ep5.6>5 EL PRISIONERO</ep5.6>
+			<id5.6>FF329AB775A15F30F593242C66685BB8C5C4A6FE</id5.6>
+			<ep5.7>6 EL MENSAJE</ep5.7>
+			<id5.7>8902b5264dcb6705760977ae8f9c6b7f96b73bad</id5.7>
+			<ep5.8>7 LUNA LLENA</ep5.8>
+			<id5.8>beb0739bb30499ee52720409484cd606aef517cc</id5.8>
+			<ep5.9>8 EL CHISTE</ep5.9>
+			<id5.9>f0460786bf285fa679ef4e49bb2748aa09d2704b</id5.9>
+			<ep5.10>9 UNA HISTORIA SENCILLA</ep5.10>
+			<id5.10>7f51c9bb61683b9bac042ec336ac061c0c45cdd7</id5.10>
+			<ep5.11>10 MOMENTOS DE VISION</ep5.11>
+			<id5.11>1f562925bc70e513311eae5056b24e90de73fbb0</id5.11>
+			<ep5.12>11 LA REVELACION</ep5.12>
+			<id5.12>ecc7d48b380e364349681d74db2ac9d2b8d8e6d9</id5.12>
+			<ep5.13>12 EL ASESINATO MAS VIL</ep5.13>
+			<id5.13>eb638105a8b88a482666f6d05f3ced90e1336b27</id5.13>
+			<ep5.14>13 UN NUEVO DIOS</ep5.14>
+			<id5.14>5135a6e1c5753bf14b1810ea446303078dd4b979</id5.14>
+			<ep5.15>14 EL MOMENTO PERDIDO</ep5.15>
+			<id5.15>57c88acf5df558dd1eb4c75cc92496a139832879</id5.15>
+			<ep5.16>15 INFIERNO</ep5.16>
+			<id5.16>2355f36d560f23b3dc3c1656397ca751a51cc7bc</id5.16>
+			<ep5.17>16 EL BUDA</ep5.17>
+			<id5.17>38f2241540c30432e9885cf2896a554587fb757b</id5.17>
+			<ep5.18>17 COSAS TERRIBLES</ep5.18>
+			<id5.18>5982c411742aab9ea605010c8c4e530189c9d321</id5.18>
+			<ep5.19>18 BALDUR</ep5.19>
+			<id5.19>dc9e00f4a02fa081b56a0ea2dd613787b413c6fc</id5.19>
+			<ep5.20>19 LO QUE OCURRE EN LA CUEVA</ep5.20>
+			<id5.20>f59568d57fabfccb7d8ee48665166ecd096a9749</id5.20>
+			<ip5.21>20 RAGNAROK</ip5.21>
+			<id5.21>d3941d4ff46bec1c3de2bb7a8f2b0847601aad7d</id5.21>
+		</t5>
+		<t6>
+			<thumb.6>https://image.tmdb.org/t/p/original/ff1zhqvwfS5HvRNcA5UFrH0PA2q.jpg</thumb.6>
+			<fanart.6>https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg</fanart.6>
+			<ep5.1>1 AL 10 (1080)</ep5.1>
+			<id5.1>a54c6e3a61044f68a8b414622aaf4fc26bf32eb9</id5.1>
+			<ep5.2>1 NUEVOS COMIENZOS</ep5.2>
+			<id5.2>bd739f0642e6d7def711f5fb715d41c3a8a9c379</id5.2>
+			<ep5.3>2 EL PROFETA</ep5.3>
+			<id5.3>dc65d547f8353cb09c5bc986d4b991caf61799a8</id5.3>
+			<ep5.4>3 FANTASMAS DIOSES Y LACAYOS</ep5.4>
+			<id5.4>c98b21ad5fd9da31a29ca5e04ecc4fdce7e4a806</id5.4>
+			<ep5.5>4 TODOS LOS PRISIONEROS</ep5.5>
+			<id5.5>7f039c153b4707ee721a63f6d35b9efa0de5003d</id5.5>
+			<ep5.6>5 LA LLAVE</ep5.6>
+			<id5.6>53202f1b740ebd87b548dbc235e5d95518d3eab3</id5.6>
+			<ep5.7>6 LA MUERTE Y LA SERPIENTE</ep5.7>
+			<id5.7>8184460f0415e3c2faeb7e22645ee927a1e4f39d</id5.7>
+			<ep5.8>7 LA DONCELLA DE HIELO</ep5.8>
+			<id5.8>53970f5c2b73193dbfaf8cc47b949ed39a3b0d28</id5.8>
+			<ep5.9>8 VALHALLA PUEDE ESPERAR</ep5.9>
+			<id5.9>94aeaaaf7a2b40a48802e1eca97f22532683882d</id5.9>
+			<ep5.10>9 RESURRECCION</ep5.10>
+			<id5.10>0f340a88270a4783cab9b72053b154a5bbaa5b6a</id5.10>
+			<ep5.11>10 LOS PLANES MEJOR TRAZADOS</ep5.11>
+			<id5.11>13dfa8cc9ff6b7ddcfe0998ef1cbf86970ac7732</id5.11>
+		</t6>
+	</serie>
+	<serie>
+		<title>VENENO</title>
+		<info>(2020) 8 episodios. Miniserie sobre una famosa y controvertida transexual de los años 90 conocida como "la Veneno". Una serie inspirada en las memorias oficiales de Cristina Ortiz, "la Veneno", tituladas "¡Digo! Ni puta ni santa", escritas por Valeria Vegas, que cuenta la historia de la realidad transexual en España desde los años 60 hasta la actualidad. Cuando la autora del libro, Valeria, era una niña pequeña, nunca entendió por qué la gente la llamaba por un nombre que no era el suyo. Lo mismo le ocurrió a Cristina, por entonces llamada “Joselito”, que tuvo que sobrevivir a una violenta y cruel infancia en la España de los 60. Dos mujeres que nacieron en épocas muy diferentes pero que, por casualidad o por el destino, acaban unidas para siempre, cuando Valeria, estudiante de Periodismo, decide escribir un libro sobre la vida del icónico y mediático personaje. Adorada por su carisma y su forma de expresarse, libre, deslenguada y divertida, "la Veneno" alcanzó la popularidad gracias a sus apariciones televisivas en los años 90. Sin embargo, su vida y -sobre todo- su muerte siguen siendo un enigma.</info>
+		<year>2020</year>
+		<genre>Drama. Comedia</genre>
+		<thumb>https://image.tmdb.org/t/p/original/tATGQfEe2KSWebtG5L0MIhhzakU.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/1NeUpmJUXOcVtiQqviYQvQierSZ.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/tATGQfEe2KSWebtG5L0MIhhzakU.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/1NeUpmJUXOcVtiQqviYQvQierSZ.jpg</fanart.1>
+			<ep1.1>1 LA NOCHE QUE CRUZAMOS EL MISSISSIPPI</ep1.1>
+			<id1.1>7f450a9dc417e27fe29e5975b531430686276d90</id1.1>
+			<ep1.2>2 UN VIAJE EN EL TIEMPO</ep1.2>
+			<id1.2>b2474aa76f0bf61c019e78b5452ad4c71f590a5e</id1.2>
+			<ep1.3>3 ACARICIAME</ep1.3>
+			<id1.3>8a24ba698af054d7c50394fa5c7d3f57f7c65c15</id1.3>
+			<ep1.4>4 LA MALDICION DE ONASSIS</ep1.4>
+			<id1.4>515e232cf09ca0a845f8ac73bdc19644b1dc2a02</id1.4>
+			<ep1.5>5 CRISTINA A TRAVES DEL ESPEJO</ep1.5>
+			<id1.5>681c8fd3411f87cec2e36ed644e047582a12504f</id1.5>
+			<ep1.6>6 UNA DE LAS NUESTRAS</ep1.6>
+			<id1.6>4df510e34824fb23837590176f1680625ce7d532</id1.6>
+			<ep1.7>7 FUE MAS O MENOS ASI</ep1.7>
+			<id1.7>db64d7bf85684efe728ca0db7d493859682235a2</id1.7>
+			<ep1.8>8 LOS TRES ENTIERROS DE CRISTINA ORTIZ</ep1.8>
+			<id1.8>2d4607abe0c30232819634d551323a1f1e5556ef</id1.8>
+		</t1>
+		<t2/>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
+	</serie>
+	<serie>
+		<title>VALERIA</title>
+		<info>(2020) 2 temporadas 16 episodios. Valeria es una escritora en crisis, tanto por sus novelas como por su marido y la distancia emocional que les separa. Por todo ello Val se refugia en sus mejores amigas: Carmen, Lola y Nerea, quienes la apoyan durante su viaje emocional. Las tres están inmersas en un torbellino de emociones sobre amor, amistad, celos, infidelidad, dudas, desamores, secretos, trabajo, preocupaciones, alegrías y sueños sobre el futuro.Durante la segunda temporada, Valeria deberá enfrentarse a una decisión que podría marcar su futuro como escritora: esconderse tras un pseudónimo y vivir finalmente de su profesión o renunciar a la publicación de su novela y seguir exprimiendo el inagotable mundo de los contratos basura. Todo esto mientras su vida sentimental continúa tambaleándose pero sigue contando con el apoyo de sus tres amigas, que también pasarán por diferentes situaciones que cambiarán sus vidas para siempre.</info>
+		<year>2020</year>
+		<genre>Drama. Romance</genre>
+		<thumb>https://image.tmdb.org/t/p/original/70Fku4Gle1dJlBFXIEAT1WxWJfJ.jpg</thumb>
+		<fanart>https://image.tmdb.org/t/p/original/pFuQB6zUy8Oz0FFAJdKUZQPX9Js.jpg</fanart>
+		<t1>
+			<thumb.1>https://image.tmdb.org/t/p/original/70Fku4Gle1dJlBFXIEAT1WxWJfJ.jpg</thumb.1>
+			<fanart.1>https://image.tmdb.org/t/p/original/pFuQB6zUy8Oz0FFAJdKUZQPX9Js.jpg</fanart.1>
+			<ep1.1>1 LA IMPOSTORA</ep1.1>
+			<id1.1>0e11cb790f0d119b4d938dbc784e51bd7e50d828</id1.1>
+			<ep1.2>2 SEÑALES</ep1.2>
+			<id1.2>9eb4e25de69d0407e8a07284f49b596c143412b3</id1.2>
+			<ep1.3>3 ALASKA</ep1.3>
+			<id1.3>20170e7be7079f282f87013fa7f6afbb9cdc75a6</id1.3>
+			<ep1.4>4 LA CHARCA</ep1.4>
+			<id1.4>ac3fabe00eb5912eee7ae3d7549dae53042d4f5c</id1.4>
+			<ep1.5>5 MR CHAMPI</ep1.5>
+			<id1.5>b878f14510e3847f2d515e305bf5ce0eb13b0a54</id1.5>
+			<ep1.6>6 LA REGADERA</ep1.6>
+			<id1.6>f1588f517bd04f4c884f76bd4089f3d414e3c200</id1.6>
+			<ep1.7>7 EL PAQUETE</ep1.7>
+			<id1.7>8eeefca8db92a69c539470a77185eb846fc9a0aa</id1.7>
+			<ep1.8>8 PUNTOS</ep1.8>
+			<id1.8>6c54934219ecf8a52c12ece42a73acec184fe9f0</id1.8>
+		</t1>
+		<t2>
+			<thumb.2>https://www.themoviedb.org/t/p/original/fQuHD60Za7xLLMYLH4AXKhWnxFw.jpg</thumb.2>
+			<fanart.2>https://www.themoviedb.org/t/p/original/lefZez6aV7f0LXdjbgzOkxNPm8B.jpg</fanart.2>
+			<ep2.1>1 DEJA DE CORRER</ep2.1>
+			<id2.1>554d1d60902cec282176ea8484d0adb0a902d556</id2.1>
+			<ep2.2>2 SI NO SABE QUE HACER, ESCRIBA</ep2.2>
+			<id2.2>5cf90022b080155f979d7383c8024e6f352b6003</id2.2>
+			<ep2.3>3 AL 4</ep2.3>
+			<id2.3>e145826778aa7fdec71ee5f253b7595779c4b8cf</id2.3>
+			<ep2.4>5 AL 6</ep2.4>
+			<id2.4>60083d6365a5480dcb69fe99a6f7742cc3a611a2</id2.4>
+			<ep2.5>7 AL 8</ep2.5>
+			<id2.5>405a446f8a578e8d8036ff24e4699dc0aa012d1a</id2.5>
+		</t2>
+		<t3/>
+		<t4/>
+		<t5/>
+		<t6/>
 	</serie>
 </series>
