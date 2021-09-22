@@ -34,6 +34,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>9-1-1: LONE STAR</title>
@@ -102,6 +107,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ABSENTIA</title>
@@ -175,6 +185,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ALBA</title>
@@ -218,6 +233,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ALGUIEN TIENE QUE MORIR</title>
@@ -237,6 +257,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ALL AMERICAN</title>
@@ -360,6 +385,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>AMERICAN HORROR STORIES</title>
@@ -387,6 +417,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ANDRES INIESTA: EL HEROE INESPERADO</title>
@@ -406,6 +441,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ANTIDISTURBIOS</title>
@@ -425,6 +465,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>AQUI Y AHORA ( WE ARE WHO WE ARE )</title>
@@ -458,6 +503,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>BREAKING BAD</title>
@@ -497,6 +547,11 @@
 			<id5.1>b548484f86ff2ff57725e03adb3e45a1b5828f3d</id5.1>
 		</t5>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>COBRA KAI</title>
@@ -546,6 +601,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>EL CID</title>
@@ -580,6 +640,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>ELLOS</title>
@@ -599,6 +664,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>THE WALKING DEAD</title>
@@ -669,7 +739,218 @@
 			<ep5.17>16 VENCE</ep5.17>
 			<id5.17>c5eadbade3eb225b746298d9160df75e8c266584</id5.17>
 		</t5>
-		<t6/>
+		<t6>
+			<thumb.6>https://image.tmdb.org/t/p/original/uNWCBdqPrXe7i2CWqC4sDItSM1A.jpg</thumb.6>
+			<fanart.6>https://image.tmdb.org/t/p/original/78A09OrR2CdnJX8pQA7H1x0VswC.jpg</fanart.6>
+			<ep6.1>1 AL 16 (1080)</ep6.1>
+			<id6.1>ec2e3ab57439db8521281c8a3c38211baef62ab5</id6.1>
+			<ep6.2>1 LA PRIMERA VEZ,OTRA VEZ</ep6.2>
+			<id6.2>b2a11129c61aa3792b8eda74c86e4d840197466d</id6.2>
+			<ep6.3>2 JSS</ep6.3>
+			<id6.3>c41ac1d23ec92f3f4cf168c665584e3e4b32adb9</id6.3>
+			<ep6.4>3 GRACIAS</ep6.4>
+			<id6.4>29bad8982cb52d6d39ca3ddff3b8d60c6ef1d35a</id6.4>
+			<ep6.5>4 AQUI NO ES AQUI</ep6.5>
+			<id6.5>f8eaa02a380385d0bb06a5c70718ef33c1f9979f</id6.5>
+			<ep6.6>5 AHORA</ep6.6>
+			<id6.6>be32f4352bb4e24e20a0f2c97aa670a8c30cfcee</id6.6>
+			<ep6.7>6 SIEMPRE RESPONSABLE</ep6.7>
+			<id6.7>84ddc8644f8b008dc6618bae3ab90e46ecba2af9</id6.7>
+			<ep6.8>7 OJO AVIZOR</ep6.8>
+			<id6.8>8dea8b803b1d695e8e4b3c7b9a747ce89292dc11</id6.8>
+			<ep6.9>8 DEL PRINCIPIO AL FIN</ep6.9>
+			<id6.9>8aa2c153ecc61575918f3a88086164efe2d3b1d7</id6.9>
+			<ep6.10>9 SIN SALIDA</ep6.10>
+			<id6.10>a0d6de60663b9c31eeb4c25adbe518cdd8f5b1bd</id6.10>
+			<ep6.11>10 EL NUEVO MUNDO</ep6.11>
+			<id6.11>49b8e527f9a45007d9efe781f31d650b49159050</id6.11>
+			<ep6.12>11 SOLTAR AMARRAS</ep6.12>
+			<id6.12>5161e132b083d1251258a2623e80df728217a7e6</id6.12>
+			<ep6.13>12 AUN NO ES MAÑANA</ep6.13>
+			<id6.13>a68a7ca57c9e01150e6eff888c63897a630910ec</id6.13>
+			<ep6.14>13 EL MISMO BARCO</ep6.14>
+			<id6.14>0f6745a0152bea5cb4087f220b4d465219bfc672</id6.14>
+			<ep6.15>14 EL DOBLE DE LEJOS</ep6.15>
+			<id6.15>0ef3427fab795ad15aa2904c961ddb32f88cfe56</id6.15>
+			<ep6.16>15 AL ESTE</ep6.16>
+			<id6.16>dfd4e979529a01442de9b4941077103349a99eda</id6.16>
+			<ep6.17>16 EL ULTIMO DIA DE LA TIERRA</ep6.17>
+			<id6.17>9bae2e15b84edb1d85f44b0f25b5b188c22b44fc</id6.17>
+		</t6>
+		<t7>
+			<thumb.7>https://image.tmdb.org/t/p/original/tPQZkQCikCvLhjuyOMDLtBvVJgZ.jpg</thumb.7>
+			<fanart.7>https://image.tmdb.org/t/p/original/fPJbTqEOCHGemXDxCJDAnbe777R.jpg</fanart.7>
+			<ep7.1>1 AL 16 (1080)</ep7.1>
+			<id7.1>29d5231882cd7cf747bc84bcc137a586d3385d3d</id7.1>
+			<ep7.2>1 LLEGARA UN DIA EN QUE NO ESTARAS</ep7.2>
+			<id7.2>0a8eb76c7fa2d7b8f83cf2f380a0fe1457ecdd52</id7.2>
+			<ep7.3>2 EL POZO</ep7.3>
+			<id7.3>e0e4000a6a0f2d5168fd14c8915094b3d7e55c0f</id7.3>
+			<ep7.4>3 LA CELDA</ep7.4>
+			<id7.4>d7dc872bcae22fdbe1184cc588fd343e5431ec1e</id7.4>
+			<ep7.5>4 SERVICIO</ep7.5>
+			<id7.5>62d06a26abb060a37b41aaae7b32f36dbf919349</id7.5>
+			<ep7.6>5 BUSCAVIDAS</ep7.6>
+			<id7.6>0b75cb7b3e6e98576ba9c42efe706a0560100296</id7.6>
+			<ep7.7>6 LA PROMESA</ep7.7>
+			<id7.7>0a6f81b4519ef01a5440cb47de109cfd50a204b1</id7.7>
+			<ep7.8>7 CANTAME UNA CANCION</ep7.8>
+			<id7.8>7e518dd2f56313887e883294ddf5f49c0b69e1f6</id7.8>
+			<ep7.9>8 CORAZONES QUE AUN LATEN</ep7.9>
+			<id7.9>a2b0a672318fd180167efc5a79ac1b15728b3a24</id7.9>
+			<ep7.10>9 PIEDRA EN EL CAMINO</ep7.10>
+			<id7.10>735587bd64468125506cacac552fc437cc8bc1db</id7.10>
+			<ep7.11>10 NUEVOS MEJORES AMIGOS</ep7.11>
+			<id7.11>9d7ffd5d4307062c883560f0abf3e72dd31c2ea2</id7.11>
+			<ep7.12>11 HOSTILES Y DESGRACIADOS</ep7.12>
+			<id7.12>825ff3f914e6c41f9052c918c8fa8f5d78d698f9</id7.12>
+			<ep7.13>12 DI QUE SI</ep7.13>
+			<id7.13>7a57272802d0e240826b3923a080d0b5bb32f3ac</id7.13>
+			<ep7.14>13 ENTERRADME AQUI</ep7.14>
+			<id7.14>b8452887d928d666399bf96d953e0e8ea518a3e8</id7.14>
+			<ep7.15>14 EL OTRO LADO</ep7.15>
+			<id7.15>60abde3962dcfe035bf6d987c0bb4a198d08aeeb</id7.15>
+			<ep7.16>15 ALGO QUE NECESITAN</ep7.16>
+			<id7.16>349745ffe47cefc2605c9e8b255f97536ad168f9</id7.16>
+			<ep7.17>16 EL PRIMER DIA DEL RESTO DE TU VIDA</ep7.17>
+			<id7.17>b091b1e76f66354d298e06a65c18366181d2985e</id7.17>
+		</t7>
+		<t8>
+			<thumb.8>https://image.tmdb.org/t/p/original/fMDMxn5rnCuOObOXpUuMtr1AtYF.jpg</thumb.8>
+			<fanart.8>https://image.tmdb.org/t/p/original/pwA0criaevjVcg2JMRNUFSyXf5r.jpg</fanart.8>
+			<ep8.1>1 AL 16 (1080)</ep8.1>
+			<id8.1>563bf5ff251bdb591b691f771ac6eece7602893f</id8.1>
+			<ep8.2>1 PIEDAD</ep8.2>
+			<id8.2>5c00dbde912cf27121d84f94d816a8ec04caa7ec</id8.2>
+			<ep8.3>2 LOS MALDITOS</ep8.3>
+			<id8.3>8fba34e404e7e9676d2bd8a7727af3a37e21fdcd</id8.3>
+			<ep8.4>3 MONSTRUOS</ep8.4>
+			<id8.4>cb5fca92cd4a45ad56fda62d01db58aa8508bed2</id8.4>
+			<ep8.5>4 UN TIPO CUALQUIERA</ep8.5>
+			<id8.5>5728f2dd1ff8df62003af66f8f336b0241054258</id8.5>
+			<ep8.6>5 EL GRAN ATERRADOR Y TU</ep8.6>
+			<id8.6>3b5e37641595f7cfb0608d7cfdeda40579abf26d</id8.6>
+			<ep8.7>6 EL REY, LA VIUDA, Y RICK</ep8.7>
+			<id8.7>45e6525e396c33fa4b71ac5a54505a60aecd0f28</id8.7>
+			<ep8.8>7 LLEGO LA HORA</ep8.8>
+			<id8.8>f9fbb63515823b953605041033a0a38b6b2e4ba2</id8.8>
+			<ep8.9>8 LO QUE HAY QUE HACER</ep8.9>
+			<id8.9>eccdcb93d8a56e32aab022b9c6b1852e1eb22e52</id8.9>
+			<ep8.10>9 HONOR</ep8.10>
+			<id8.10>24f4a0b8662329e3752e74b13d433160700b646e</id8.10>
+			<ep8.11>10 LOS PERDIDOS Y LOS SAQUEADORES</ep8.11>
+			<id8.11>ea1dadfb10033ba4f93ae1dec26e608321f72dbe</id8.11>
+			<ep8.12>11 VIVOS O MUERTOS</ep8.12>
+			<id8.12>0f7626dd77caa8a8986c62ffd4f6b58aa72cdee7</id8.12>
+			<ep8.13>12 LA CLAVE</ep8.13>
+			<id8.13>b3632a52370400c4ea2132e274ba0324c82d5d61</id8.13>
+			<ep8.14>13 NO NOS HAGAS EXTRAVIARNOS</ep8.14>
+			<id8.14>bcb2fdf4d3b6768c4fbdd14531198cf12665a23d</id8.14>
+			<ep8.15>14 TODAVIA DEBE SIGNIFICAR ALGO</ep8.15>
+			<id8.15>2d7032bdaf2366955e8e8f86219362b2bc2caf9e</id8.15>
+			<ep8.16>15 VALIA</ep8.16>
+			<id8.16>1eedcc87b9372ce6b79424940296d67455627b82</id8.16>
+			<ep8.17>16 IRA</ep8.17>
+			<id8.17>cadd6fedfbfaf8c23fc3e126996938fb31294752</id8.17>
+		</t8>
+		<t9>
+			<thumb.9>https://image.tmdb.org/t/p/original/n5E9lBEBArA6bY6fDXfkpB3jv5l.jpg</thumb.9>
+			<fanart.9>https://image.tmdb.org/t/p/original/lhDw84LpRKdQU3jadUQPGJszeUS.jpg</fanart.9>
+			<ep9.1>1 AL 16 (1080)</ep9.1>
+			<id9.1>fec421cadd16ab3f285601f866eb3d9213648103</id9.1>
+			<ep9.2>1 UN NUEVO COMIENZO</ep9.2>
+			<id9.2>661193f359f878e130b9e479e4215b37336d6ffd</id9.2>
+			<ep9.3>2 EL PUENTE</ep9.3>
+			<id9.3>9705721f08d91de932730c9ac5089cec29eec8f4</id9.3>
+			<ep9.4>3 SEÑALES DE AVISO</ep9.4>
+			<id9.4>f601780983cddc02684d7dbe6761552c38b18201</id9.4>
+			<ep9.5>4 AGRADECIDOS</ep9.5>
+			<id9.5>f87e9a393180ad224b9f953e79545575d89f9593</id9.5>
+			<ep9.6>5 QUE VIENE DESPUES</ep9.6>
+			<id9.6>0c1fc3b16fbfea359690851392713d5a48ca5509</id9.6>
+			<ep9.7>6 ¿QUIENES SOMOS AHORA?</ep9.7>
+			<id9.7>b06896e6822b164fc028960c16a1fb2fc5759249</id9.7>
+			<ep9.8>7 STRADIVARIUS</ep9.8>
+			<id9.8>efe36d8a25164c73879c7142076e62794a0ac8e0</id9.8>
+			<ep9.9>8 EVOLUCION</ep9.9>
+			<id9.9>c982f8db1c3a4c3fd5647f90e304b339a4aca203</id9.9>
+			<ep9.10>9 ADAPTACION</ep9.10>
+			<id9.10>bfad1f01070174ed042863cdb42e4c908ea044c9</id9.10>
+			<ep9.11>10 OMEGA</ep9.11>
+			<id9.11>8c6dae54dba618d9947ef54c32f6d46479b7f9e7</id9.11>
+			<ep9.12>11 RECOMPENSA</ep9.12>
+			<id9.12>b1b0ec6baea843621e4bd0c77f7b98157ccf7683</id9.12>
+			<ep9.13>12 GUARDIANES</ep9.13>
+			<id9.13>3ee983b9b5ca9a83a741e5bdbc2f1cc3ef4856da</id9.13>
+			<ep9.14>13 EMBUDO</ep9.14>
+			<id9.14>440d41d3fb3a16d058af8154bdfc5b4653b285b2</id9.14>
+			<ep9.15>14 CICATRICES</ep9.15>
+			<id9.15>cb67b118359f9e7a655e96ed07535064ed65c7b1</id9.15>
+			<ep9.16>15 LA CALMA ANTERIOR A</ep9.16>
+			<id9.16>7abbfba648e97f00aa007018b24e222469cc014d</id9.16>
+			<ep9.17>16 LA TORMENTA</ep9.17>
+			<id9.17>89eb5e10b56711458772f8cc57d0f21ce248e7bc</id9.17>
+		</t9>
+		<t10>
+			<thumb.10>https://image.tmdb.org/t/p/original/vSaAu7avl7sbxMnygLRpcqnu4om.jpg</thumb.10>
+			<fanart.10>https://image.tmdb.org/t/p/original/j55MwsdBFbkVnXBe4auVWqawRy7.jpg</fanart.10>
+			<ep10.1>1 LAS LINEAS QUE CRUZAMOS</ep10.1>
+			<id10.1>170799fa844e7078d63979564ffc21034c4eb0f7</id10.1>
+			<ep10.2>2 NOSOTROS SOMOS EL FIN DEL MUNDO</ep10.2>
+			<id10.2>a1e9dcd117f3e02275bf3a361bb2f8cdbf1bd258</id10.2>
+			<ep10.3>3 FANTASMAS</ep10.3>
+			<id10.3>46bbc5a8725c096b9facda759274c7cdd86ba0de</id10.3>
+			<ep10.4>4 HAZ CALLAR LOS SUSURROS</ep10.4>
+			<id10.4>85d3dc0e8c1530606fb90cec047003cd6ff67e0e</id10.4>
+			<ep10.5>5 LO QUE SIEMPRE ES</ep10.5>
+			<id10.5>443adf8ff002f43e09ca6bdfc06f79e6deb0b2f9</id10.5>
+			<ep10.6>6 VINCULOS</ep10.6>
+			<id10.6>5dcc341c71c566f5874a9bec3216150cb65c49f4</id10.6>
+			<ep10.7>7 ABRE LOS OJOS</ep10.7>
+			<id10.7>2fe7b1b27a2ecc57d61ad7951b649d1cb6de776e</id10.7>
+			<ep10.8>8 EL MUNDO ANTES</ep10.8>
+			<id10.8>3306e7911cda09530acb1984a4f2bbcf264074e6</id10.8>
+			<ep10.9>9 PRESION</ep10.9>
+			<id10.9>494465409be317741a57ea1f37d4a74905561f1b</id10.9>
+			<ep10.10>10 ACECHO</ep10.10>
+			<id10.10>77d4cf1d6e0c2f0750cf4a0856f0f414e6c78e50</id10.10>
+			<ep10.11>11 LUCERO DEL ALBA</ep10.11>
+			<id10.11>8a95ce2d6d0b338698a8a01a6a1e8f17ca43b422</id10.11>
+			<ep10.12>12 CAMINA CON NOSOTROS</ep10.12>
+			<id10.12>cec4be9380cf3e04522842370654692d917ad03a</id10.12>
+			<ep10.13>13 COMO NOS VOLVEMOS</ep10.13>
+			<id10.13>10c49cb4c1754c7eeab844560dd01ad508d713c9</id10.13>
+			<ep10.14>14 MIRA LAS FLORES</ep10.14>
+			<id10.14>7a840480f575b265ceec02bd53bc5bba2a9317ca</id10.14>
+			<ep10.15>15 LA TORRE</ep10.15>
+			<id10.15>cb026d51cbdf4c70fcaf31ff85e5e2b1e56f071f</id10.15>
+			<ep10.16>16 UN FUTURO INCIERTO</ep10.16>
+			<id10.16>c8f8495f6ff40868c202f0070641f894dca4e882</id10.16>
+			<ep10.17>17 HOGAR, DULCE HOGAR</ep10.17>
+			<id10.17>b614e100f1493cd99765fea9457cc1933911a882</id10.17>
+			<ep10.18>18 ENCUENTRAME</ep10.18>
+			<id10.18>0279a59e0fd93c6ed9d5d0d22ca72d1ac574cf0a</id10.18>
+			<ep10.19>19 UNO MAS</ep10.19>
+			<id10.19>13201685eca8afc9c5da09737093f62d6c7dabca</id10.19>
+			<ep10.20>20 ASTILLA</ep10.20>
+			<id10.20>4a018fd9ff59e51665c0152e13621deed5bc3a98</id10.20>
+			<ep10.21>21 DIVERGENCIA</ep10.21>
+			<id10.21>28fd09209405205dbb782bef0bec1fd01428eae9</id10.21>
+			<ep10.22>22 AQUI ESTA NEGAN</ep10.22>
+			<id10.22>811bb94dc6ead1a0b56b82c33ee07907a7202424</id10.22>
+		</t10>
+		<t11>
+			<thumb.11>https://www.themoviedb.org/t/p/original/wsq1xCuC9kDhFeoE7xuQFDC5iRC.jpg</thumb.11>
+			<fanart.11>https://www.themoviedb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg</fanart.11>
+			<ep11.1>1 ACHERON: PARTE 1</ep11.1>
+			<id11.1>0da34f96fad573e3a6dcdce512f5f545ec395039</id11.1>
+			<ep11.2>2  ACHERON: PARTE 2</ep11.2>
+			<id11.2>c642de01d33576d58875a64d67ae807864dd5ffc</id11.2>
+			<ep11.3>3 CAZADO</ep11.3>
+			<id11.3>e47a5447bc7496e0612082828df78e61498c0dc5</id11.3>
+			<ep11.4>4 RENDICION</ep11.4>
+			<id11.4>154e745c788aa1ea004c12039a5d84621596effa</id11.4>
+		</t11>
 	</serie>
 	<serie>
 		<title>THE WALKING DEAD: WORLD BEYOND</title>
@@ -707,6 +988,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>THE WHITE LOTUS</title>
@@ -736,6 +1022,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>THE WILDS (SALVAJES)</title>
@@ -757,6 +1048,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>THE WITCHER</title>
@@ -790,6 +1086,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>TIN STAR</title>
@@ -865,6 +1166,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>TOY BOY</title>
@@ -908,6 +1214,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>TRUE DETECTIVE</title>
@@ -979,6 +1290,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VALERIA</title>
@@ -1025,6 +1341,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VENENO</title>
@@ -1058,6 +1379,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VIKINGOS</title>
@@ -1260,6 +1586,11 @@
 			<ep6.11>10 LOS PLANES MEJOR TRAZADOS</ep6.11>
 			<id6.11>13dfa8cc9ff6b7ddcfe0998ef1cbf86970ac7732</id6.11>
 		</t6>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VIS A VIS</title>
@@ -1352,7 +1683,6 @@
 			<ep4.3>3 EL UMBRAL DEL DOLOR</ep4.3>
 			<id4.3>cafb2d9012be52508253c1e4650c8bcaddbefe3a</id4.3>
 			<ep4.4>4 MAMA</ep4.4>
-			<id3.4>a35c7e812c15d0a733c4d5836e654c03e86aa01c</id3.4>
 			<ep4.5>5 TRAICION</ep4.5>
 			<id4.5>26bd207f0601a8c4b317915ed5986f416cdb332e</id4.5>
 			<ep4.6>6 MALA PERSONA</ep4.6>
@@ -1361,9 +1691,15 @@
 			<id4.7>165c1616e98758c49189e6d4067c1d95fc5b1604</id4.7>
 			<ep4.8>8 LA MAREA AMARILLA</ep4.8>
 			<id4.8>62a2b7eb734458c84a060d82a8e09de64298a73e</id4.8>
+			<id3.4>a35c7e812c15d0a733c4d5836e654c03e86aa01c</id3.4>
 		</t4>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VIS A VIS EL OASIS</title>
@@ -1397,6 +1733,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>VIVIR SIN PERMISO</title>
@@ -1461,6 +1802,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>WARRIOR</title>
@@ -1521,6 +1867,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>WATCHMEN</title>
@@ -1558,6 +1909,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>WESTWORLD</title>
@@ -1618,6 +1974,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>YOU</title>
@@ -1642,6 +2003,11 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 	<serie>
 		<title>YOUR HONOR</title>
@@ -1679,5 +2045,10 @@
 		<t4/>
 		<t5/>
 		<t6/>
+		<t7/>
+		<t8/>
+		<t9/>
+		<t10/>
+		<t11/>
 	</serie>
 </series>
