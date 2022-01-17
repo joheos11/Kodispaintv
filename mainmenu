@@ -49,5 +49,26 @@
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/RADIO_MOD</externallink>
 </menu>
+  
+<menu>
+<title>[B][COLOR white]¿Problemas con[/COLOR][COLOR red] Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR][COLOR white] en K18 Leia?[/COLOR][COLOR lime]   Pincha aquí[/COLOR][/B]</title>
+<link>$doregex[get-decode]</link>
+<regex> 
+<name>get-decode</name> 
+<expres><![CDATA[#$pyFunction
+import re
+import HTMLParser
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
+def GetLSProData(page_data,Cookie_Jar,m):
+ parser = HTMLParser.HTMLParser()
+ return re.sub("(&.+?;)", lambda m: parser.unescape(m.group()), page_data)
+]]></expres>
+<page>http://bit.ly/mainmenuks</page>
+</regex>
+<thumbnail>https://i.postimg.cc/fbrgJsDx/icon.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+</menu>
 
 </menus>
