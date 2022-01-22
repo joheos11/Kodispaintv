@@ -17,22 +17,6 @@
 <thumbnail>https://i.imgur.com/9HdA9Ro.png</thumbnail>
 <fanart>https://i.imgur.com/vRegK9p.jpg</fanart>
 </menu>
-  
-<menu>
-<title>[B][COLOR white]PLUTO TV[/COLOR][/B]</title>
-<link>NA</link>
-<thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
-<fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.m3u8</externallink>
-</menu>
-
-<menu>
-<title>[B][COLOR white]PHOTOCALL TV[/COLOR][/B]</title>
-<thumbnail>https://i.postimg.cc/Dwg1DNYK/photocall.png</thumbnail>
-<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
-<link>nolink</link>
-<externallink>https://bit.ly/photocalltv</externallink>
-</menu>
 
 <menu>  
 <title>[B][COLOR white]DEPORTES[/COLOR][/B]</title>
@@ -50,6 +34,22 @@
 <externallink>http://bit.ly/LISTAS_IPTV_NEW</externallink>
 </menu>
 
+<menu>
+<title>[B][COLOR white]PHOTOCALL TV[/COLOR][/B]</title>
+<thumbnail>https://i.postimg.cc/Dwg1DNYK/photocall.png</thumbnail>
+<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<link>nolink</link>
+<externallink>https://bit.ly/photocalltv</externallink>
+</menu>
+
+<menu>
+<title>[B][COLOR white]PLUTO TV[/COLOR][/B]</title>
+<link>NA</link>
+<thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
+<fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.m3u8</externallink>
+</menu>
+  
 <menu>
 <title>[B][COLOR white]RADIO[/COLOR][/B]</title>
 <link>nolink</link>
