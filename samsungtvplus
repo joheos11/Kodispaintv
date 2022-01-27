@@ -2,7 +2,7 @@
 
 <menus>
 
-<item>
+<menu>
 <title>[B][COLOR white]TODOS[/COLOR][/B]</title>
 <link>$doregex[channel]</link>
 <regex>
@@ -23,9 +23,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.postimg.cc/DZphy31z/samsungtvplus.png</thumbnail>
 <fanart>https://i.postimg.cc/sXCzM4Nk/samsungtvplus.jpg</fanart>
-</item>
+</menu>
 
-<item>
+<menu>
 <title>[B][COLOR white]POR CATEGORIA[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -68,6 +68,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.postimg.cc/DZphy31z/samsungtvplus.png</thumbnail>
 <fanart>https://i.postimg.cc/sXCzM4Nk/samsungtvplus.jpg</fanart>
-</item>
+</menu>
 
-</items>
+</menu>
