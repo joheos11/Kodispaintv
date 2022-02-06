@@ -6,22 +6,22 @@
 <title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]</title>
 <genre>ALL</genre>
 <description>Contenido variado en español</description>
-<thumbnail>https://s18.postimg.cc/4vv9gntnt/kodispain_icon.png</thumbnail>
-<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/PxbwZKFV/uDzZNhh.png</thumbnail>
+<fanart>https://i.postimg.cc/HLwxPn4V/uHz4BP7.jpg</fanart>
 <credits>https://t.me/kodispain (joheos11)</credits>
 </menus_info>
 
 <menu>
 <title>[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]         [COLOR yellow]por[/COLOR] [COLOR red]@[/COLOR][COLOR yellow]joheos11[/COLOR]</title>
 <utube>Sgnp9ZaXHFw</utube>
-<thumbnail>https://i.imgur.com/9HdA9Ro.png</thumbnail>
-<fanart>https://i.imgur.com/vRegK9p.jpg</fanart>
+<thumbnail>https://i.postimg.cc/PxbwZKFV/uDzZNhh.png</thumbnail>
+<fanart>https://i.postimg.cc/HLwxPn4V/uHz4BP7.jpg</fanart>
 </menu>
 
 <menu>  
 <title>[B][COLOR white]DEPORTES[/COLOR][/B]</title>
 <link>nolink</link>
-<thumbnail>https://i.postimg.cc/PxTPRhcb/Deportes.png</thumbnail>
+<thumbnail>https://i.postimg.cc/cJ0ZCmwL/Sozt4fH.jpg</thumbnail>
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart> 
 <externallink>http://bit.ly/DEPORTES_MOD</externallink>
 </menu>
@@ -29,8 +29,8 @@
 <menu>
 <title>[B][COLOR white]LISTAS IPTV[/COLOR][/B]</title>
 <link>nolink</link>
-<thumbnail>https://i.postimg.cc/wvXD1wK2/IPTV.png</thumbnail>
-<fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
+<thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
+<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
 <externallink>http://bit.ly/LISTAS_IPTV_NEW</externallink>
 </menu>
 
@@ -61,7 +61,7 @@
 <menu>
 <title>[B][COLOR white]RADIO[/COLOR][/B]</title>
 <link>nolink</link>
-<thumbnail>https://i.postimg.cc/kX4tCJ5f/Radio.png</thumbnail>
+<thumbnail>https://i.postimg.cc/L8H26Dz6/6h5froY.png</thumbnail>
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 <externallink>http://bit.ly/RADIO_MOD</externallink>
 </menu>
@@ -83,7 +83,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page>http://bit.ly/mainmenuks</page>
 </regex>
-<thumbnail>https://i.postimg.cc/fbrgJsDx/icon.png</thumbnail>
+<thumbnail>https://i.postimg.cc/VkLPc68J/1gM5EYK.png</thumbnail>
 <fanart>https://i.postimg.cc/hGX7vS8f/Kodispaintv-Fanart.jpg</fanart>
 </menu>
 
