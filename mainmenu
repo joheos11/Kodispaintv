@@ -20,10 +20,45 @@
   
 <menu>  
 <title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR][COLOR red]  Necesario F4M[/COLOR][COLOR yellow]  PARA K18 Y K19[/COLOR][/B]</title>
-<link>nolink</link>
-<thumbnail>https://i.postimg.cc/9FLJFxH9/iptvcat.png</thumbnail>
-<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
-<externallink>https://bit.ly/iptvcat_spain</externallink>
+<link>$doregex[cat]</link>
+<regex>
+<name>cat</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR khaki][cat.param1][/COLOR]  [COLOR white][cat.param2][/COLOR][/B]</title>
+  <link>$doregex[makelist]</link>
+  <thumbnail>[cat.param3]</thumbnail>
+  <fanart>https://i.postimg.cc/c4x7TQtw/ESPA-ATV.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  data = re.findall('(?s)cat>(.*?)<.*?tit>(.*?)<.*?thumb>(.*?)<.*?link>(.*?)<',page_data)
+  data.sort()
+  return data
+]]></expres>
+<page>https://bit.ly/3gZY9ck</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param1]&amp;url=$doregex[channel]</link>
+  <thumbnail>[cat.param3]</thumbnail>
+  <fanart>https://i.postimg.cc/c4x7TQtw/ESPA-ATV.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)div>".title="(.*?)".*?href="(.*?)"]]></expres>
+<page>https://iptvcat.com/spain_-_-_-_-_-_-_-_-_-_-/s/[cat.param4]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>channel</name>
+<expres><![CDATA[(http.*).checked]]></expres>
+<page>[makelist.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.postimg.cc/Ssc5LW2H/ESPA-ATV.png</thumbnail>
+<fanart>https://i.postimg.cc/c4x7TQtw/ESPA-ATV.jpg</fanart>
 </menu>
 
 <menu>  
