@@ -57,7 +57,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>[makelist.param2]</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.postimg.cc/Ssc5LW2H/ESPA-ATV.png</thumbnail>
+<thumbnail>https://i.postimg.cc/50P0LxnC/Canales-Espa-a.png</thumbnail>
 <fanart>https://i.postimg.cc/c4x7TQtw/ESPA-ATV.jpg</fanart>
 </menu>
 
