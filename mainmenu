@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.postimg.cc/dQBMtrwy/Canales-de-Espa-a.png</thumbnail>
 <fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
 </menu>
 
