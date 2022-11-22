@@ -27,7 +27,7 @@
   <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title>
   <link>[makelist.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
   <thumbnail>[makelist.param1]</thumbnail>
-  <fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+  <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[Spain".*?logo="(.*?)",(.*).\d.\n(http.*)]]></expres>
 <page>https://www2.vjackson.info/live2/index</page>
