@@ -30,7 +30,7 @@
   <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[Spain".*?logo="(.*?)",(.*).\d.\n(http.*)]]></expres>
-<page>https://www2.vjackson.info/live2/index</page>
+<page>https://www2.vavoo.to/live2/index</page>
 </regex>
 <regex>
 <name>key</name>
@@ -70,7 +70,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
       seccion_list.append(x)
   return seccion_list
 ]]></expres>
-<page>https://www2.vjackson.info/live2/index</page>
+<page>https://www2.vavoo.to/live2/index</page>
 </regex>
 <regex>
 <name>channel</name>
@@ -80,7 +80,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <thumbnail>$doregex[logo]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[name="(.*?)...."\sgroup-title="[makelist.param1]"(.*)\n(http.*ts)]]></expres>
-<page>https://www2.vjackson.info/live2/index</page>
+<page>https://www2.vavoo.to/live2/index</page>
 </regex>
 <regex>
 <name>logo</name>
