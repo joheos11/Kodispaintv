@@ -155,6 +155,49 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
   
 <menu>
+<title>[B][COLOR red]• [/COLOR][COLOR white]TDTChannels[/COLOR][/B]</title>
+<link>$doregex[groupname]</link>
+<regex>
+<name>groupname</name>
+<listrepeat><![CDATA[
+  <title>[groupname.param1]</title>
+  <link>$doregex[tvchannels]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  match = re.compile('group-title="([^"]+)"').findall(list)
+  seccion_list = []
+  for x in match:
+    if x not in seccion_list:
+      seccion_list.append(x)
+  return seccion_list
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>tvchannels</name>
+<listrepeat><![CDATA[
+  <title>[tvchannels.param3]</title>
+  <link>[tvchannels.param4]</link>
+  <thumbnail>[tvchannels.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  data = re.findall('EXTINF.*tvg-logo="([^"]+)".group-title="[groupname.param1]".tvg-name="([^"]+)",(.*)\n(.*)',list)
+  data.sort()
+  return data
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.postimg.cc/xd9nkC7D/46137909-1.jpg</thumbnail>
+<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+</menu>
+  
+<menu>
 <title>[B][COLOR white]RADIO[/COLOR][/B]</title>
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/L5p4mFcn/Radio.png</thumbnail>
