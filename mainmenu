@@ -155,7 +155,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
   
 <menu>
-<title>[B][COLOR white]TDTChannels con SELECT[/COLOR][/B]</title>
+<title>[B][COLOR white]TDTCHANNELS[/COLOR][/B]</title>
 <link>$doregex[groupname]</link>
 <regex>
 <name>select</name>
