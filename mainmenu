@@ -155,8 +155,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
   
 <menu>
-<title>[B][COLOR white]TDTChannels[/COLOR][/B]</title>
+<title>[B][COLOR white]TDTChannels con SELECT[/COLOR][/B]</title>
 <link>$doregex[groupname]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import xbmcgui
+  dialog = xbmcgui.Dialog()  
+  opt = dialog.select('Elige una lista:', ['Televisión', 'Radio'])  
+  list = ['https://www.tdtchannels.com/lists/tv.m3u', 'https://www.tdtchannels.com/lists/radio.m3u']
+  return list[opt] 
+]]></expres>
+<page></page>
+</regex>
 <regex>
 <name>groupname</name>
 <listrepeat><![CDATA[
@@ -166,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  list = requests.get('$doregex[select]').text
   match = re.compile('group-title="([^"]+)"').findall(list)
   seccion_list = []
   for x in match:
@@ -186,10 +198,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re, requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  list = requests.get('https://www.tdtchannels.com/lists/tv.m3u').text
+  list = requests.get('https://www.tdtchannels.com/lists/tvradio.m3u').text
   data = re.findall('EXTINF.*tvg-logo="([^"]+)".group-title="[groupname.param1]".tvg-name="([^"]+)",(.*)\n(.*)',list)
-  data.sort()
-  return data
+  return sorted(data, key=lambda match: match[1])
 ]]></expres>
 <page></page>
 </regex>
