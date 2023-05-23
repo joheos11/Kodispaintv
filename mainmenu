@@ -24,18 +24,29 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR white][makelist.param2][/COLOR][/B]</title>
+  <title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
   <link>[makelist.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
-  <thumbnail>[makelist.param1]</thumbnail>
+  <thumbnail>$doregex[logo]</thumbnail>
   <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
+
   import re
-  list = re.findall('Spain".*?logo="(.*?)",(.*).\d.\n(http.*)', page_data)
+
+  list = re.findall('name="(.*?)...."\sgroup-title="Spain"(.*)\n(http.*ts)', page_data)
   return sorted(list, key=lambda match: match[1])
 ]]></expres>
 <page>https://www2.vavoo.to/live2/index</page>
+</regex>
+<regex>
+
+<name>logo</name>
+
+<expres><![CDATA[(http.*png)]]></expres>
+
+<page>[channel.param2]</page>
+
 </regex>
 <regex>
 <name>key</name>
