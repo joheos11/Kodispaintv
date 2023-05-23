@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <expres><![CDATA[(http.*png)]]></expres>
 
-<page>[channel.param2]</page>
+<page>[makelist.param2]</page>
 
 </regex>
 <regex>
