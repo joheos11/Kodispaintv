@@ -19,7 +19,7 @@
 </menu>
   
 <menu>
-<title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR]  [COLOR red]  OFFLINE TEMPORALMENTE[/COLOR][/B]</title>
+<title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR]  [COLOR red]  OFFLINE[/COLOR][/B]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
