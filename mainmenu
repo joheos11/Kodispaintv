@@ -107,7 +107,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
   import requests
   vec = {"vec": "eyJkYXRhIjoie1widGltZVwiOjE2ODU0OTM3MjM3NzksXCJ2YWxpZFVudGlsXCI6MTY4NTQ5NDkyMzc3OSxcInV1aWRcIjpcIlV6RHdOdHA1cjF1SUtISmJ0aEhpT3YydHcySWhseUJ6Szh2Ny9Ob0V0QTQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJQcno3MGJHUW0zb0t1cmtkbmx2NU43dTQ2UVFRY1RqNk1rd2ZCcjNxYlFjZFdnclJvRjFENmxqUkcxRi80eFptN1Fnd052NEMvOFoxamRTUE44eDhRTW1NN2tyNS9rYTltMHBBV1VZalNIYlQ4WFlrZ1M0bmtDREhxWWJXUjlRMGpQMjhPSGVYNXduT3V4eUtjWmVUQU5sMVFjWFVjdWVmZkUyYVowQytUR2c9In0="}
-  api = 'https://www.vavoo.tv/api/box/ping2'
+  api = 'https://www.dezor.net/api/app/ping'
   req = requests.post(api, data=vec).json()
   signed = req['response'].get('signed')
   return signed
