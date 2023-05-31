@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[B][COLOR white]CANALES INTERNACIONALES[/COLOR][COLOR red]  ON[/COLOR][/B]</title>
+<title>[B][COLOR white]CANALES INTERNACIONALES[/COLOR][COLOR green]  ON[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>channel</name>
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
-  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
+  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2ODU0OTM3MjM3NzksXCJ2YWxpZFVudGlsXCI6MTY4NTQ5NDkyMzc3OSxcInV1aWRcIjpcIlV6RHdOdHA1cjF1SUtISmJ0aEhpT3YydHcySWhseUJ6Szh2Ny9Ob0V0QTQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJQcno3MGJHUW0zb0t1cmtkbmx2NU43dTQ2UVFRY1RqNk1rd2ZCcjNxYlFjZFdnclJvRjFENmxqUkcxRi80eFptN1Fnd052NEMvOFoxamRTUE44eDhRTW1NN2tyNS9rYTltMHBBV1VZalNIYlQ4WFlrZ1M0bmtDREhxWWJXUjlRMGpQMjhPSGVYNXduT3V4eUtjWmVUQU5sMVFjWFVjdWVmZkUyYVowQytUR2c9In0=|user-Agent:VAVOO/2.6</link>
   <thumbnail>$doregex[logo]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
