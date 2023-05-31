@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   channels = re.findall('name="(.*?)...."\sgroup-title="Spain"(.*)\n(http.*ts)', page_data)
   return sorted(channels, key=lambda match: match[0])
 ]]></expres>
-<page>https://www2.vavoo.to/live2/index</page>
+<page>https://www2.vavoo.to/live2/index</page>     
 </regex>
 <regex>
 <name>logo</name>
