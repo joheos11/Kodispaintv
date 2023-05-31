@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>channel</name>
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
-  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2ODU0OTM3MjM3NzksXCJ2YWxpZFVudGlsXCI6MTY4NTQ5NDkyMzc3OSxcInV1aWRcIjpcIlV6RHdOdHA1cjF1SUtISmJ0aEhpT3YydHcySWhseUJ6Szh2Ny9Ob0V0QTQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJQcno3MGJHUW0zb0t1cmtkbmx2NU43dTQ2UVFRY1RqNk1rd2ZCcjNxYlFjZFdnclJvRjFENmxqUkcxRi80eFptN1Fnd052NEMvOFoxamRTUE44eDhRTW1NN2tyNS9rYTltMHBBV1VZalNIYlQ4WFlrZ1M0bmtDREhxWWJXUjlRMGpQMjhPSGVYNXduT3V4eUtjWmVUQU5sMVFjWFVjdWVmZkUyYVowQytUR2c9In0=|user-Agent:VAVOO/2.6</link>
+  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
   <thumbnail>$doregex[logo]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
@@ -106,7 +106,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
   import requests
-  vec = {"vec": "eyJkYXRhIjoie1widGltZVwiOjE2ODU0OTM3MjM3NzksXCJ2YWxpZFVudGlsXCI6MTY4NTQ5NDkyMzc3OSxcInV1aWRcIjpcIlV6RHdOdHA1cjF1SUtISmJ0aEhpT3YydHcySWhseUJ6Szh2Ny9Ob0V0QTQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJQcno3MGJHUW0zb0t1cmtkbmx2NU43dTQ2UVFRY1RqNk1rd2ZCcjNxYlFjZFdnclJvRjFENmxqUkcxRi80eFptN1Fnd052NEMvOFoxamRTUE44eDhRTW1NN2tyNS9rYTltMHBBV1VZalNIYlQ4WFlrZ1M0bmtDREhxWWJXUjlRMGpQMjhPSGVYNXduT3V4eUtjWmVUQU5sMVFjWFVjdWVmZkUyYVowQytUR2c9In0="}
+  vec = {"vec": "26fY7-FIvyz_UA5t9T_ndXB02KgaCT-jDx0uA9CE7iRAO_V2lCSGkAzzTXOpjHZHBvOoKcuq1OVCnbYX035d8698U0OYDaLo-7p8BJJIJNj7d1z-7byaQDuDFdEHPbnZAKAxG_fskVIrE0XkBV7_HbBnlIBDQ_EgxA"}
   api = 'https://www.dezor.net/api/app/ping'
   req = requests.post(api, data=vec).json()
   signed = req['response'].get('signed')
