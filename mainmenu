@@ -19,7 +19,7 @@
 </menu>
   
 <menu>
-<title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR][/B]</title>
+<title>[B][COLOR white]CANALES DE ESPAñA[/COLOR][/B]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
