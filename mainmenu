@@ -25,7 +25,7 @@
 <name>channel</name>
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
-  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2ODU2MzgyNDgzMjgsXCJ2YWxpZFVudGlsXCI6MTY4NTYzOTQ0ODMyOCxcInV1aWRcIjpcInltTmdHQndkbHZwVVlGMEVjRHBtelJLTHZQVDBLRVhtK05wd0lsbDNhMmM9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJJcHJFcUNaV0RSZEpKY1pqa0RmVzEwWTRLQ3ZPM25oUjJWdlZqdlVBRWV3ZFZwaDFSdktvQSt1V05LNkMvVlhad1o2TWRpclNLZ1RKemw5RVZtK29KenlDeU4zVjBlOWVpMXV0UVpuL0dqUUlrOW5HN0xBK2ZsVkh1a0FqRE1GU24ySTFxNDdaRk5XSHZ1YzI2bmgyYTRLTHBoYW16SmJlVWgrZmVRZzZlQWs9In0=|user-Agent:VAVOO/2.6</link>
+  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
   <thumbnail>$doregex[logo]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
