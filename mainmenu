@@ -43,15 +43,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <regex>
 <name>key</name>
+<regex>
+<name>key</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
-  import requests
-  vec = {"vec": "eyJkYXRhIjoie1widGltZVwiOjE2ODU2MzgyNDgzMjgsXCJ2YWxpZFVudGlsXCI6MTY4NTYzOTQ0ODMyOCxcInV1aWRcIjpcInltTmdHQndkbHZwVVlGMEVjRHBtelJLTHZQVDBLRVhtK05wd0lsbDNhMmM9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJJcHJFcUNaV0RSZEpKY1pqa0RmVzEwWTRLQ3ZPM25oUjJWdlZqdlVBRWV3ZFZwaDFSdktvQSt1V05LNkMvVlhad1o2TWRpclNLZ1RKemw5RVZtK29KenlDeU4zVjBlOWVpMXV0UVpuL0dqUUlrOW5HN0xBK2ZsVkh1a0FqRE1GU24ySTFxNDdaRk5XSHZ1YzI2bmgyYTRLTHBoYW16SmJlVWgrZmVRZzZlQWs9In0="}
-  api = 'https://www.dezor.net/api/app/ping'
-  req = requests.post(api, data=vec).json()
-  signed = req['response'].get('signed')
-  return signed
+  k = 'eyJkYXRhIjoie1widGltZVwiOjE2ODY2NzUzODg0NzksXCJ2YWxpZFVudGlsXCI6MTY4NjY3NjU4ODQ3OSxcInV1aWRcIjpcIldreml1cWpwbkNhNDl5bVNYK1VMcjZyS05PZUowUFpsWnptOWRxWDJNczQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJvclQ0aFBUUjkwNXQvazJSZlBoZkJHRE5LSis4Y01jYXhQY2dCWHZsWlRGQ1Z5R3BpU1NmeWZyM0RrRjFZR0JudUEwNHh3MUNxc3N2QUlzSDdqK3Zwdk5iKzF5TTJ3eW1TK1hTL3VOa0lSZWwvTExSZlZvZDFWMjduU1hUeHY5b3lvRWRwblVOUytIdmFNNG5KWktTSU1vSlUzcXpGZHNvSEpNTEtyOEppd289In0='
+  return k
 ]]></expres>
+<page></page>
+</regex>
 <page></page>
 </regex>
 <thumbnail>https://i.postimg.cc/dQBMtrwy/Canales-de-Espa-a.png</thumbnail>
@@ -103,15 +103,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <regex>
 <name>key</name>
+<regex>
+<name>key</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
-  import requests
-  vec = {"vec": "eyJkYXRhIjoie1widGltZVwiOjE2ODU2MzgyNDgzMjgsXCJ2YWxpZFVudGlsXCI6MTY4NTYzOTQ0ODMyOCxcInV1aWRcIjpcInltTmdHQndkbHZwVVlGMEVjRHBtelJLTHZQVDBLRVhtK05wd0lsbDNhMmM9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJJcHJFcUNaV0RSZEpKY1pqa0RmVzEwWTRLQ3ZPM25oUjJWdlZqdlVBRWV3ZFZwaDFSdktvQSt1V05LNkMvVlhad1o2TWRpclNLZ1RKemw5RVZtK29KenlDeU4zVjBlOWVpMXV0UVpuL0dqUUlrOW5HN0xBK2ZsVkh1a0FqRE1GU24ySTFxNDdaRk5XSHZ1YzI2bmgyYTRLTHBoYW16SmJlVWgrZmVRZzZlQWs9In0="}
-  api = 'https://www.dezor.net/api/app/ping'
-  req = requests.post(api, data=vec).json()
-  signed = req['response'].get('signed')
-  return signed
+  k = 'eyJkYXRhIjoie1widGltZVwiOjE2ODY2NzUzODg0NzksXCJ2YWxpZFVudGlsXCI6MTY4NjY3NjU4ODQ3OSxcInV1aWRcIjpcIldreml1cWpwbkNhNDl5bVNYK1VMcjZyS05PZUowUFpsWnptOWRxWDJNczQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJvclQ0aFBUUjkwNXQvazJSZlBoZkJHRE5LSis4Y01jYXhQY2dCWHZsWlRGQ1Z5R3BpU1NmeWZyM0RrRjFZR0JudUEwNHh3MUNxc3N2QUlzSDdqK3Zwdk5iKzF5TTJ3eW1TK1hTL3VOa0lSZWwvTExSZlZvZDFWMjduU1hUeHY5b3lvRWRwblVOUytIdmFNNG5KWktTSU1vSlUzcXpGZHNvSEpNTEtyOEppd289In0='
+  return k
 ]]></expres>
+<page></page>
+</regex>
 <page></page>
 </regex>
 <thumbnail>https://i.postimg.cc/qvd7Jxvw/vavootv.png</thumbnail>
