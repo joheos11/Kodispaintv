@@ -20,40 +20,9 @@
   
 <menu>
 <title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR][/B]</title>
-<link>$doregex[channel]</link>
-<regex>
-<name>channel</name>
-<listrepeat><![CDATA[
-  <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
-  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
-  <thumbnail>$doregex[logo]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  channels = re.findall('name="(.*?)...."\sgroup-title="Spain"(.*)\n(http.*ts)', page_data)
-  return sorted(channels, key=lambda match: match[0])
-]]></expres>
-<page>https://www2.vavoo.to/live2/index</page>     
-</regex>
-<regex>
-<name>logo</name>
-<expres><![CDATA[(http.*png)]]></expres>
-<page>[channel.param2]</page>
-</regex>
-<regex>
-<name>key</name>
-<regex>
-<name>key</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  k = 'eyJkYXRhIjoie1widGltZVwiOjE2ODY2NzUzODg0NzksXCJ2YWxpZFVudGlsXCI6MTY4NjY3NjU4ODQ3OSxcInV1aWRcIjpcIldreml1cWpwbkNhNDl5bVNYK1VMcjZyS05PZUowUFpsWnptOWRxWDJNczQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJvclQ0aFBUUjkwNXQvazJSZlBoZkJHRE5LSis4Y01jYXhQY2dCWHZsWlRGQ1Z5R3BpU1NmeWZyM0RrRjFZR0JudUEwNHh3MUNxc3N2QUlzSDdqK3Zwdk5iKzF5TTJ3eW1TK1hTL3VOa0lSZWwvTExSZlZvZDFWMjduU1hUeHY5b3lvRWRwblVOUytIdmFNNG5KWktTSU1vSlUzcXpGZHNvSEpNTEtyOEppd289In0='
-  return k
-]]></expres>
+<link>NA</link>
+<externallink>https://pastebin.com/raw/QuD8kdYa</externallink>
 <page></page>
-</regex>
-<page></page>
-</regex>
 <thumbnail>https://i.postimg.cc/dQBMtrwy/Canales-de-Espa-a.png</thumbnail>
 <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 </menu>
