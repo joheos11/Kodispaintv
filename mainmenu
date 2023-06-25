@@ -26,7 +26,7 @@
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
   <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
-  <thumbnail>$doregex[logo]</thumbnail>
+  <thumbnail>https://i.imgur.com/Sa2zYk5.jpg</thumbnail>
   <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
