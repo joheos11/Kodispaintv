@@ -29,13 +29,13 @@
 
 <menu>
 <title>[B][COLOR white]CANALES INTERNACIONALES[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
+<link>$doregex[channels]</link>
 <regex>
-<name>makelist</name>
+<name>channels</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
+  <title>[B][COLOR white][channels.param1][/COLOR][/B]</title>
   <link>$doregex[channel]</link>
-  <thumbnail>https://i.postimg.cc/qvd7Jxvw/vavootv.png</thumbnail>
+  <thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
   <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
@@ -54,13 +54,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>channel</name>
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
-  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2ODU2MzgyNDgzMjgsXCJ2YWxpZFVudGlsXCI6MTY4NTYzOTQ0ODMyOCxcInV1aWRcIjpcInltTmdHQndkbHZwVVlGMEVjRHBtelJLTHZQVDBLRVhtK05wd0lsbDNhMmM9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJJcHJFcUNaV0RSZEpKY1pqa0RmVzEwWTRLQ3ZPM25oUjJWdlZqdlVBRWV3ZFZwaDFSdktvQSt1V05LNkMvVlhad1o2TWRpclNLZ1RKemw5RVZtK29KenlDeU4zVjBlOWVpMXV0UVpuL0dqUUlrOW5HN0xBK2ZsVkh1a0FqRE1GU24ySTFxNDdaRk5XSHZ1YzI2bmgyYTRLTHBoYW16SmJlVWgrZmVRZzZlQWs9In0=|user-Agent:VAVOO/2.6</link>
+  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
   <thumbnail>$doregex[logo]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
   import re
-  channels = re.findall('name="(.*?)...."\sgroup-title="[makelist.param1]"(.*)\n(http.*ts)', page_data)
+  channels = re.findall('name="(.*?)...."\sgroup-title="[channels.param1]"(.*)\n(http.*ts)', page_data)
   return sorted(channels, key=lambda match: match[0])
 ]]></expres>
 <page>https://www2.vavoo.to/live2/index</page>
@@ -72,18 +72,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <regex>
 <name>key</name>
-<regex>
-<name>key</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
-  k = 'eyJkYXRhIjoie1widGltZVwiOjE2ODY2NzUzODg0NzksXCJ2YWxpZFVudGlsXCI6MTY4NjY3NjU4ODQ3OSxcInV1aWRcIjpcIldreml1cWpwbkNhNDl5bVNYK1VMcjZyS05PZUowUFpsWnptOWRxWDJNczQ9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE4OC4yNi4xOTcuMTg2XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJvclQ0aFBUUjkwNXQvazJSZlBoZkJHRE5LSis4Y01jYXhQY2dCWHZsWlRGQ1Z5R3BpU1NmeWZyM0RrRjFZR0JudUEwNHh3MUNxc3N2QUlzSDdqK3Zwdk5iKzF5TTJ3eW1TK1hTL3VOa0lSZWwvTExSZlZvZDFWMjduU1hUeHY5b3lvRWRwblVOUytIdmFNNG5KWktTSU1vSlUzcXpGZHNvSEpNTEtyOEppd289In0='
-  return k
+    # <!-- Credits to kasi and michaz 2023 -->
+    import requests
+    signed = None
+    veclist = requests.get(
+        "https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/master/data.json").json()
+    for vec in veclist:
+        post_data = {"vec": vec}
+        data = requests.post(
+            'https://www.vavoo.tv/api/box/ping2', data=post_data).json()
+        if data.get('response').get('signed'):
+            signed = data.get('response').get('signed')
+            break
+    return signed
 ]]></expres>
 <page></page>
-</regex>
-<page></page>
-</regex>
-<thumbnail>https://i.postimg.cc/qvd7Jxvw/vavootv.png</thumbnail>
+</regex> 
+<thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
 <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
 </menu>
 
