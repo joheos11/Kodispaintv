@@ -20,10 +20,44 @@
   
 <menu>
 <title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR][/B]</title>
-<link>NA</link>
-<externallink>https://pastebin.com/raw/QuD8kdYa</externallink>
+<link>$doregex[channel]</link>
+<regex>
+<name>channel</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][channel.param2][/COLOR][/B]</title>
+  <link>[channel.param3]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
+  <thumbnail>[channel.param1]</thumbnail>
+  <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  channels = re.findall('Spain".*?logo="(.*?)",(.*).\d.\n(http.*)', page_data)
+  return sorted(channels, key=lambda match: match[1])
+]]></expres>
+<page>https://www2.vavoo.to/live2/index</page>
+</regex>
+<regex>
+<name>key</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    # <!-- Credits to kasi and michaz 2023 -->
+    import requests
+    signed = None
+    veclist = requests.get(
+        "https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/master/data.json").json()
+    for vec in veclist:
+        post_data = {"vec": vec}
+        data = requests.post(
+            'https://www.vavoo.tv/api/box/ping2', data=post_data).json()
+        if data.get('response').get('signed'):
+            signed = data.get('response').get('signed')
+            break
+    return signed
+]]></expres>
 <page></page>
-<thumbnail>https://i.imgur.com/9j1Bi23.png</thumbnail>
+</regex> 
+<thumbnail>https://i.imgur.com/Sa2zYk5.jpg</thumbnail>
 <fanart>https://i.postimg.cc/W4NGHypV/Canales-de-Espa-a.jpg</fanart>
 </menu>
 
