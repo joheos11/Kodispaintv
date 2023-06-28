@@ -3,11 +3,11 @@
 http://51.158.54.75:18000/LA_1/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2", LA DOS
 http://51.158.54.75:18000/LA_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3", Antena 3 
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3", Antena TRES
 http://51.158.54.75:18000/Antena_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4", Cuatro 
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4", 4 
 http://51.158.54.75:18000/Cuatro/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5", Telecinco 
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5", T5 
 http://51.158.54.75:18000/Telecinco/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA", La Sexta 
 http://51.158.54.75:18000/La_Sexta/hls/playlist.m3u8
