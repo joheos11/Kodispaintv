@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE", LA 1 
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE", LA UNO
 http://51.158.54.14:18000/LA_1/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2", LA 2 
 http://51.158.54.14:18000/LA_2/hls/playlist.m3u8
