@@ -19,7 +19,7 @@
 </menu>
   
 <menu>
-<title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR][/B]</title>
+<title>[B][COLOR white]CANALES DE ESPAÑA[/COLOR]   [COLOR yellow]PUEDES NECESITAR VPN[/COLOR][/B]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[B][COLOR white]CANALES INTERNACIONALES[/COLOR][/B]</title>
+<title>[B][COLOR white]CANALES INTERNACIONALES[/COLOR]   [COLOR yellow]PUEDES NECESITAR VPN[/COLOR][/B]</title>
 <link>$doregex[country]</link>
 <regex>
 <name>country</name>
